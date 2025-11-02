@@ -1,23 +1,32 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#7A00FF;">Yuvarajah Divejikan</span></h1>
-<h3 align="center">💻 Aspiring Data Engineer | 🎓 IT Undergraduate | 🤖 Data Science & ML Enthusiast</h3>
+<!-- Animated Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=800&color=7A00FF&center=true&vCenter=true&width=600&lines=Hey+there+👋,+I'm+Yuvarajah+Divejikan;Aspiring+Data+Engineer+%7C+Data+Science+Learner;JavaFX+and+Web+Developer;Tech+Writer+on+Medium+%26+LinkedIn" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">💻 IT Undergraduate | 🤖 Data Science Enthusiast | ✨ Software Developer</h3>
 
 ---
 
 ### 🧠 About Me
 
-I'm an **IT undergraduate** with a passion for turning data into insights and ideas into impactful projects.  
-I enjoy exploring the intersection of **Data Science**, **AI**, and **Software Development** — crafting solutions that make technology meaningful and human-friendly.  
+I'm an **IT undergraduate** who loves exploring the world of **Data Science**, **AI**, and **Software Development**.  
+I enjoy transforming ideas into functional projects, bringing together creativity, logic, and data-driven thinking.  
 
-I believe that every dataset tells a story and every project is an opportunity to learn something new.  
+Every project I build helps me grow — both as a developer and as a problem solver. 🚀  
 
 ---
 
-### 🚀 Current Focus
+### 🚀 Currently Focusing On
 
-- 🌱 Learning **Data Engineering tools** (SQL, Python, ETL pipelines)  
-- ⚙️ Exploring **Machine Learning** & **Data Visualization** projects  
-- 💡 Building full-stack apps with **React + FastAPI + PostgreSQL**  
-- 🎨 Designing interfaces with **Figma** & **JavaFX**  
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="90" align="right">
+</p>
+
+- 📊 Advancing in **Data Science & Analytics**
+- ☕ Developing **Java** & **JavaFX** projects  
+- 🌐 Building **modern, responsive websites**  
+- ✍️ Writing **Tech Blogs & Concept Posts** on [Medium](https://medium.com/@Yuvarajah_Divejikan) & [LinkedIn](https://www.linkedin.com/in/divejikan-yuvarajah-401526279)  
+- 🧩 Learning how to blend **data, design, and development** for real-world impact  
 
 ---
 
@@ -66,17 +75,17 @@ I believe that every dataset tells a story and every project is an opportunity t
 
 ### ✨ Fun Facts
 
-- 🔁 I refactor my code before bedtime 😄  
-- 🧩 Debugging feels like solving mini-puzzles every day  
-- 🚀 Dreaming of building data-driven solutions that make life smarter  
-- 🎯 Motto: *“Turning ideas into data-driven reality, one line at a time.”*
+- 💡 Debugging is like detective work for me 🕵️‍♂️  
+- 🎯 “Write. Build. Break. Learn. Repeat.” — my development cycle  
+- 🔥 I love blending **creativity** with **code**  
+- 🌟 Motto: *“Turning ideas into data-driven reality, one line at a time.”*
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=divejikan-yuvarajah&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=divejikan-yuvarajah&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Waving hand" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" alt="Waving hand" />
 </p>
