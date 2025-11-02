@@ -1,7 +1,8 @@
-<!-- Animated Typing Header -->
+<!-- Unique Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=800&color=7A00FF&center=true&vCenter=true&width=600&lines=Hey+there+👋,+I'm+Yuvarajah+Divejikan;Aspiring+Data+Engineer+%7C+Data+Science+Learner;JavaFX+and+Web+Developer;Tech+Writer+on+Medium+%26+LinkedIn" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro:wght@700&size=36&duration=3500&pause=900&color=9B00FF&center=true&vCenter=true&width=800&lines=Hello+World!+🌍;I'm+Yuvarajah+Divejikan;Data+Science+and+AI+Explorer;JavaFX+and+Full-Stack+Developer;Tech+Writer+✍️+%7C+Data-Driven+Learner" alt="Typing SVG" />
 </h1>
+
 
 <h3 align="center">💻 IT Undergraduate | 🤖 Data Science Enthusiast | ✨ Software Developer</h3>
 
