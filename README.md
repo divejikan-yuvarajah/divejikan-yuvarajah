@@ -1,6 +1,6 @@
 <!-- 🔥 Unique Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono:wght@800&size=42&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Hey+Techies...!+👋,+I'm+Yuvarajah+Divejikan;🚀+Aspiring+Data+Engineer+%26+AI+Explorer;☕+Java+%26+JavaFX+Developer;🌐+Web+Developer+%26+Tech+Writer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono:wght@800&size=42&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Hey+Techies+👋,+I'm+Yuvarajah+Divejikan;🚀+Aspiring+Data+Engineer+%26+AI+Explorer;☕+Java+%26+JavaFX+Developer;🌐+Web+Developer+%26+Tech+Writer" alt="Typing SVG" />
 </h1>
 
 
