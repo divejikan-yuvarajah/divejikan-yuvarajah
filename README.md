@@ -1,12 +1,8 @@
-🔥 **Awesome! You chose Style 5 — Full Premium Profile.**
-Get ready for a **high-end, modern, animated, aesthetic, recruiter-friendly, and unique GitHub README**.
-
-Here is your **fully optimized, copy-and-paste ready** PREMIUM README 👇
-(All links, animations, stats, and badges included + fixed hyphen username issue)
 
 ---
 
-# 🌌 **Yuvarajah Divejikan — Elevating Code With Creativity & Data**
+# 🌌 **Yuvarajah Divejikan** 
+**Elevating Code With Creativity & Data**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono:wght@800&size=30&duration=3000&pause=1200&color=8A2BE2&center=true&vCenter=true&width=900&lines=Hey+Techies+👋,+I'm+Yuvarajah+Divejikan;🚀+Aspiring+Data+Engineer+%26+AI+Explorer;☕+Java+%26+JavaFX+Developer;🌐+Frontend+Web+Developer;📊+Data+Science+Learner" />
