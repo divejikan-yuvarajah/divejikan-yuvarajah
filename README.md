@@ -67,9 +67,13 @@ Every project I build helps me grow — both as a developer and as a problem sol
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divejikan-yuvarajah&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=divejikan-yuvarajah&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  
   <img src="https://nirzak-streak-stats.vercel.app/?user=divejikan-yuvarajah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divejikan-yuvarajah&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divejikan-yuvarajah&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+
 </p>
 
 ---
