@@ -117,13 +117,4 @@
 
 ---
 
-## 🎉 **Your Premium README is Ready!**
 
-If you'd like, I can also add:
-
-✨ A custom **banner image (PNG)**
-✨ A **3D contribution graph**
-✨ Animated **snake eating contributions**
-✨ A personal **logo** for your profile
-
-Just tell me — *"add banner"*, *"add snake"*, or *"add logo"* 👌
