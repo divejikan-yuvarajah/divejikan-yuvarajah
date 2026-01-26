@@ -1,6 +1,4 @@
 
----
-
 <h1 align="center" style="font-size: 60px; font-weight: 900;">
   🌌 Yuvarajah Divejikan
 </h1>
@@ -11,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono:wght@800&size=30&duration=3000&pause=1200&color=8A2BE2&center=true&vCenter=true&width=900&lines=Hey+Techies+👋,+I'm+Yuvarajah+Divejikan;🚀+Aspiring+Data+Engineer+%26+AI+Explorer;☕+Java+%26+JavaFX+Developer;🌐+Frontend+Web+Developer;📊+Data+Science+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono:wght@800&size=30&duration=3000&pause=1200&color=8A2BE2&center=true&vCenter=true&width=900&lines=Hey+Techies+👋,+I'm+Yuvarajah+Divejikan;🚀+Aspiring+Software+Engineer+in+AI+&+DataScience+%26+Entrepreneur;☕+Java+%26+JavaFX+Developer;🌐+Frontend+Web+Developer;📊+Data+Science+Learner" />
 </p>
 
 <p align="center">
