@@ -9,8 +9,12 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono:wght@800&size=30&duration=3000&pause=1200&color=8A2BE2&center=true&vCenter=true&width=900&lines=Hey+Techies+👋,+I'm+Yuvarajah+Divejikan;🚀+Aspiring+Software+Engineer+in+AI+&+DataScience+%26+Entrepreneur;☕+Java+%26+JavaFX+Developer;🌐+Frontend+Web+Developer;📊+Data+Science+Learner" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono:wght@800&size=28&duration=3000&pause=1200&color=8A2BE2&center=true&vCenter=true&multiline=true&width=900&lines=Hey+Techies+👋+I'm+Yuvarajah+Divejikan;🚀+Aspiring+Software+Engineer+|+AI+%26+Data+Science+%26+Entrepreneur;☕+Java+%26+JavaFX+Developer;🌐+Frontend+Web+Developer;📊+Data+Science+Learner"
+    alt="Typing SVG"
+  />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/IT%20Undergraduate-8000FF?style=for-the-badge&logo=graduation-cap&logoColor=white" />
