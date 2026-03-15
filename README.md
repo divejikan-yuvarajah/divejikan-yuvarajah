@@ -37,7 +37,7 @@
 * 📊 **Turning Data into Insights**
 * 🧩 **Building meaningful real-world applications**
 
-💡 My goal is to grow into a **Data Engineer / Data Scientist**, blending analysis, visualization, design, and backend logic.
+💡 My goal is to grow into an **AI Software Engineer**, building intelligent applications by combining software engineering, machine learning, data processing, and modern AI technologies.
 
 ---
 
