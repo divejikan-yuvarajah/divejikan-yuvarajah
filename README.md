@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/IT%20Undergraduate-8000FF?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Science%20Enthusiast-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20&%20ML%20Enthusiast-6A5ACD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Software%20Developer-7B68EE?style=for-the-badge" />
 </p>
 
@@ -31,7 +31,7 @@
 
 👋 I'm an **IT Undergraduate** passionate about:
 
-* 🧠 **Data Science & Machine Learning**
+* 🧠 **Artificial Intelligance & Machine Learning**
 * ☕ **Java & JavaFX projects**
 * 🌐 **Modern Web Development**
 * 📊 **Turning Data into Insights**
