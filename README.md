@@ -4,14 +4,12 @@
 
 <!-- 🌠 ANIMATED HEADER BANNER WITH GLOW -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=260&section=header&text=Yuvarajah%20Divejikan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%9C%A8%20Elevating%20Code%20With%20Creativity%20%26%20Data%20%E2%9C%A8&descAlignY=56&descAlignX=50&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=260&section=header&text=Yuvarajah%20Divejikan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%9C%A8%20Elevating%20Code%20With%20Creativity%20%26%20Data%20%E2%9C%A8&descAlignY=56&descAlignX=50&descSize=18&v=2" width="100%" />
 </p>
 
 <!-- ✨ Holographic Typing Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=8A2BE2&center=true&vCenter=true&multiline=false&width=800&height=45&lines=Hey+Techies+%F0%9F%91%8B+Welcome+to+my+Universe;I'm+Yuvarajah+Divejikan+%E2%9C%A8;Aspiring+AI+Software+Engineer+%F0%9F%A4%96;Java+%26+Spring+Boot+Developer+%E2%98%95;Full-Stack+Web+Developer+%F0%9F%8C%90;React+%26+Next.js+Builder+%E2%9A%9B%EF%B8%8F;Data+Science+%26+ML+Explorer+%F0%9F%93%8A;Turning+Coffee+into+Code+%E2%9D%A4%EF%B8%8F" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=8A2BE2&center=true&vCenter=true&multiline=false&width=800&height=45&lines=Hey+Techies+%F0%9F%91%8B+Welcome+to+my+Universe;I%27m+Yuvarajah+Divejikan+%E2%9C%A8;Aspiring+AI+Software+Engineer+%F0%9F%A4%96;Java+%26+Spring+Boot+Developer+%E2%98%95;Full-Stack+Web+Developer+%F0%9F%8C%90;React+%26+Next.js+Builder+%E2%9A%9B%EF%B8%8F;Data+Science+%26+ML+Explorer+%F0%9F%93%8A;Turning+Coffee+into+Code+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <!-- 🌈 Glowing Identity Badges (logos fixed to valid Simple Icons) -->
