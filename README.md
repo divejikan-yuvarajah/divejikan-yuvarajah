@@ -1,25 +1,25 @@
 <!-- =========================================================
-🌌 YUVARAJAH DIVEJIKAN — GitHub Profile README (Enhanced)
+🌌 YUVARAJAH DIVEJIKAN — GitHub Profile README (Enhanced v2)
 ========================================================= -->
 
 <!-- 🌠 ANIMATED HEADER BANNER WITH GLOW -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=260&section=header&text=Yuvarajah%20Divejikan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%9C%A8%20Elevating%20Code%20With%20Creativity%20%26%20Data%20%E2%9C%A8&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=260&section=header&text=Yuvarajah%20Divejikan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%9C%A8%20Elevating%20Code%20With%20Creativity%20%26%20Data%20%E2%9C%A8&descAlignY=56&descAlignX=50&descSize=18" width="100%" />
 </p>
 
 <!-- ✨ Holographic Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=800&color=8A2BE2&center=true&vCenter=true&multiline=false&width=900&height=50&lines=Hey+Techies+%F0%9F%91%8B+Welcome+to+my+Universe;I'm+Yuvarajah+Divejikan+%E2%9C%A8;Aspiring+AI+Software+Engineer+%F0%9F%A4%96;Java+%26+Spring+Boot+Developer+%E2%98%95;Full-Stack+Web+Developer+%F0%9F%8C%90;React+%26+Next.js+Builder+%E2%9A%9B%EF%B8%8F;Data+Science+%26+ML+Explorer+%F0%9F%93%8A;Turning+Coffee+into+Code+%E2%9D%A4%EF%B8%8F" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=8A2BE2&center=true&vCenter=true&multiline=false&width=800&height=45&lines=Hey+Techies+%F0%9F%91%8B+Welcome+to+my+Universe;I'm+Yuvarajah+Divejikan+%E2%9C%A8;Aspiring+AI+Software+Engineer+%F0%9F%A4%96;Java+%26+Spring+Boot+Developer+%E2%98%95;Full-Stack+Web+Developer+%F0%9F%8C%90;React+%26+Next.js+Builder+%E2%9A%9B%EF%B8%8F;Data+Science+%26+ML+Explorer+%F0%9F%93%8A;Turning+Coffee+into+Code+%E2%9D%A4%EF%B8%8F" />
   </a>
 </p>
 
-<!-- 🌈 Glowing Identity Badges -->
+<!-- 🌈 Glowing Identity Badges (logos fixed to valid Simple Icons) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/IT%20Undergraduate-8000FF?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/IT%20Undergraduate-8000FF?style=for-the-badge&logo=googlescholar&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%20%26%20ML%20Enthusiast-6A5ACD?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Software%20Developer-7B68EE?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20to%20Collab-9370DB?style=for-the-badge&logo=handshake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to%20Collab-9370DB?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Available%20for%20Hire-success?style=for-the-badge&logo=googlemeet&logoColor=white" />
 </p>
 
@@ -27,11 +27,20 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=divejikan-yuvarajah&label=Profile%20Visitors&color=8A2BE2&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/divejikan-yuvarajah?label=Followers&style=for-the-badge&color=8A2BE2&logo=github" />
-  <img src="https://img.shields.io/github/stars/divejikan-yuvarajah?label=Stars&style=for-the-badge&color=8A2BE2&logo=github" />
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20%26%20Code-ff69b4?style=for-the-badge" />
 </p>
 
-<!-- 🌍 Animated Globe / Welcome GIF -->
+<!-- 🧭 Quick Navigation -->
+<p align="center">
+  <a href="#-about-me">About</a> &nbsp;•&nbsp;
+  <a href="#-current-focus--2026-goals">Goals</a> &nbsp;•&nbsp;
+  <a href="#%EF%B8%8F-tech-arsenal">Tech</a> &nbsp;•&nbsp;
+  <a href="#-github-analytics-dashboard">Stats</a> &nbsp;•&nbsp;
+  <a href="#-featured-projects">Projects</a> &nbsp;•&nbsp;
+  <a href="#-connect-with-me">Connect</a>
+</p>
+
+<!-- 🌍 Animated Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="100%" height="3"/>
 </p>
@@ -135,7 +144,9 @@ Adding ML-based GPA prediction & advanced analytics
 <summary><b>⚙️ Backend & Frameworks</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,javafx&perline=4" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express&perline=4" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JavaFX-FF4500?style=for-the-badge&logo=java&logoColor=white" height="48" />
 </p>
 </details>
 
@@ -176,7 +187,7 @@ Adding ML-based GPA prediction & advanced analytics
 ![Java](https://img.shields.io/badge/Java-85%25-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-78%25-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-75%25-000000?style=flat-square&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-75%25-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-70%25-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-72%25-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-68%25-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -193,7 +204,7 @@ Adding ML-based GPA prediction & advanced analytics
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=divejikan-yuvarajah&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=divejikan-yuvarajah&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img height="180" src="https://streak-stats.demolab.com?user=divejikan-yuvarajah&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 <p align="center">
@@ -326,15 +337,15 @@ Adding ML-based GPA prediction & advanced analytics
 ```mermaid
 timeline
     title My Coding Journey
-    2022 : Started programming with Java ☕
-         : First "Hello World" moment
-    2023 : Dived into Web Development 🌐
+    2022 : Started programming with Java
+         : First Hello World moment
+    2023 : Dived into Web Development
          : HTML, CSS, JavaScript
-    2024 : React & Modern Frameworks ⚛️
+    2024 : React & Modern Frameworks
          : Built first full-stack app
-    2025 : Next.js + Supabase Era 🚀
+    2025 : Next.js + Supabase Era
          : NextGPA+ launched
-    2026 : Year of AI & Spring Boot 🤖
+    2026 : Year of AI & Spring Boot
          : Building intelligent apps
 ```
 
@@ -417,13 +428,6 @@ timeline
 
 <br>
 
-<!-- 🎮 Dev Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=divejikan-yuvarajah&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
-
-<br>
-
 <!-- ────────────────────────────────────────────────────────── -->
 ## ☕ Support My Work
 <!-- ────────────────────────────────────────────────────────── -->
@@ -434,10 +438,10 @@ timeline
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/divejikan">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
   <a href="https://github.com/divejikan-yuvarajah">
-    <img src="https://img.shields.io/badge/⭐%20Star%20My%20Repos-8A2BE2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/%E2%AD%90%20Star%20My%20Repos-8A2BE2?style=for-the-badge" />
   </a>
 </p>
 
