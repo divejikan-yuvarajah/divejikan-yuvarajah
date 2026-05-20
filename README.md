@@ -1,31 +1,31 @@
 <!-- =========================================================
-🌌 YUVARAJAH DIVEJIKAN — GitHub Profile README (Enhanced v2)
+🌌 YUVARAJAH DIVEJIKAN — GitHub Profile README (Cyan Edition)
 ========================================================= -->
 
-<!-- 🌠 ANIMATED HEADER BANNER WITH GLOW -->
+<!-- 🌠 SELF-HOSTED ANIMATED HEADER BANNER (commit header.svg to assets/) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=260&section=header&text=Yuvarajah%20Divejikan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%9C%A8%20Elevating%20Code%20With%20Creativity%20%26%20Data%20%E2%9C%A8&descAlignY=56&descAlignX=50&descSize=18&v=2" width="100%" />
+  <img src="https://raw.githubusercontent.com/divejikan-yuvarajah/divejikan-yuvarajah/main/assets/header.svg" width="100%" alt="Yuvarajah Divejikan" />
 </p>
 
 <!-- ✨ Holographic Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=8A2BE2&center=true&vCenter=true&multiline=false&width=800&height=45&lines=Hey+Techies+%F0%9F%91%8B+Welcome+to+my+Universe;I%27m+Yuvarajah+Divejikan+%E2%9C%A8;Aspiring+AI+Software+Engineer+%F0%9F%A4%96;Java+%26+Spring+Boot+Developer+%E2%98%95;Full-Stack+Web+Developer+%F0%9F%8C%90;React+%26+Next.js+Builder+%E2%9A%9B%EF%B8%8F;Data+Science+%26+ML+Explorer+%F0%9F%93%8A;Turning+Coffee+into+Code+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&multiline=false&width=800&height=45&lines=Hey+Techies+%F0%9F%91%8B+Welcome+to+my+Universe;I%27m+Yuvarajah+Divejikan+%E2%9C%A8;Aspiring+AI+Software+Engineer+%F0%9F%A4%96;Java+%26+Spring+Boot+Developer+%E2%98%95;Full-Stack+Web+Developer+%F0%9F%8C%90;React+%26+Next.js+Builder+%E2%9A%9B%EF%B8%8F;Data+Science+%26+ML+Explorer+%F0%9F%93%8A;Turning+Coffee+into+Code+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </p>
 
-<!-- 🌈 Glowing Identity Badges (logos fixed to valid Simple Icons) -->
+<!-- 🌈 Glowing Identity Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/IT%20Undergraduate-8000FF?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20%26%20ML%20Enthusiast-6A5ACD?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Software%20Developer-7B68EE?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20to%20Collab-9370DB?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/IT%20Undergraduate-0E7490?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML%20Enthusiast-0891B2?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Developer-06B6D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to%20Collab-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Available%20for%20Hire-success?style=for-the-badge&logo=googlemeet&logoColor=white" />
 </p>
 
 <!-- 👀 Live Counters -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=divejikan-yuvarajah&label=Profile%20Visitors&color=8A2BE2&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/divejikan-yuvarajah?label=Followers&style=for-the-badge&color=8A2BE2&logo=github" />
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20%26%20Code-ff69b4?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=divejikan-yuvarajah&label=Profile%20Visitors&color=22D3EE&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/divejikan-yuvarajah?label=Followers&style=for-the-badge&color=22D3EE&logo=github" />
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20%26%20Code-06B6D4?style=for-the-badge" />
 </p>
 
 <!-- 🧭 Quick Navigation -->
@@ -99,24 +99,25 @@
 <td width="33%" valign="top" align="center">
 
 ### 🔭 Working On
-**NextGPA+ v2** 🚀  
-Adding ML-based GPA prediction & advanced analytics
+**FlowPilotAI** 🚀
+**EcoSphere AI** 🌱
+AI-driven products & automation
 
 </td>
 <td width="33%" valign="top" align="center">
 
 ### 🌱 Learning
-**Spring Boot Microservices**  
-**Next.js 15 + Server Actions**  
+**Spring Boot Microservices**
+**Next.js 15 + Server Actions**
 **TensorFlow & PyTorch**
 
 </td>
 <td width="33%" valign="top" align="center">
 
 ### 🎯 2026 Goals
-✅ Build 5 production-grade apps  
-⬜ Contribute to 3 open-source repos  
-⬜ Publish 10 technical blog posts  
+✅ Build 5 production-grade apps
+⬜ Contribute to 3 open-source repos
+⬜ Publish 10 technical blog posts
 ⬜ Land an AI/ML internship
 
 </td>
@@ -201,31 +202,31 @@ Adding ML-based GPA prediction & advanced analytics
 <!-- ────────────────────────────────────────────────────────── -->
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=divejikan-yuvarajah&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="180" src="https://streak-stats.demolab.com?user=divejikan-yuvarajah&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=divejikan-yuvarajah&theme=city_lights&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=22D3EE&icon_color=22D3EE" />
+  <img height="180" src="https://streak-stats.demolab.com?user=divejikan-yuvarajah&theme=city_lights&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divejikan-yuvarajah&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divejikan-yuvarajah&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divejikan-yuvarajah&theme=city_lights&layout=compact&hide_border=true&langs_count=8&title_color=22D3EE" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divejikan-yuvarajah&theme=buefy" />
 </p>
 
 ### 📦 Productivity Cards
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divejikan-yuvarajah&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divejikan-yuvarajah&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divejikan-yuvarajah&theme=buefy" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divejikan-yuvarajah&theme=buefy" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divejikan-yuvarajah&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divejikan-yuvarajah&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divejikan-yuvarajah&theme=buefy" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divejikan-yuvarajah&theme=buefy&utcOffset=5.5" />
 </p>
 
 ### 🏆 Trophy Cabinet
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divejikan-yuvarajah&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&row=2" />
+  <img src="https://github-profile-trophy.vercel.app/?username=divejikan-yuvarajah&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&row=2" />
 </p>
 
 ### 🐍 Contribution Snake
@@ -237,7 +238,7 @@ Adding ML-based GPA prediction & advanced analytics
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divejikan-yuvarajah&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=a9b1d6&line=8A2BE2&point=ffffff&area=true" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divejikan-yuvarajah&theme=react-dark&hide_border=true&bg_color=041821&color=a5e8f5&line=22D3EE&point=ffffff&area=true" width="98%" />
 </p>
 
 ### 🧊 3D Contribution Calendar
@@ -259,38 +260,59 @@ Adding ML-based GPA prediction & advanced analytics
 <tr>
 <td width="50%" valign="top">
 
-### 🔥 NextGPA+
-**Smart GPA Tracker & Predictor**
+### 🤖 FlowPilotAI
+**AI-Powered Workflow Automation**
 
-📘 A modern web app for GPA calculation, graph analytics, prediction & PDF reports.
+📘 An intelligent assistant that streamlines and automates workflows using AI.
 
-🛠️ `React` · `Next.js` · `Supabase` · `Tailwind`
+🛠️ `AI` · `Automation` · `Full-Stack`
 
-📊 Features: Real-time analytics · PDF export · Multi-semester support · Prediction engine
-
-🔗 [**View Repository →**](https://github.com/divejikan-yuvarajah/NextGPA-_Smart-GPA-tracking-Web-App)
+🔗 [**View Repository →**](https://github.com/divejikan-yuvarajah/FlowPilotAI)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌱 More Coming Soon...
+### 🌱 EcoSphere AI
+**Sustainability-Focused AI Platform**
 
-**Stay tuned!**
+📘 An AI-driven platform promoting eco-friendly, sustainable solutions.
 
-🛠️ Currently building projects in:
-- ☕ Spring Boot REST APIs
-- 🤖 AI/ML pipelines
-- ⚛️ Next.js full-stack apps
-- 🗄️ Real-time data dashboards
+🛠️ `AI/ML` · `Data` · `Web`
 
-🔗 [**Follow me on GitHub →**](https://github.com/divejikan-yuvarajah)
+🔗 [**View Repository →**](https://github.com/divejikan-yuvarajah/ecosphere-ai)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 HireQueue
+**Smart Job Platform**
+
+📘 A modern job platform connecting candidates and recruiters with smart matching.
+
+🛠️ `Full-Stack` · `Database` · `Web`
+
+🔗 [**View Repository →**](https://github.com/divejikan-yuvarajah/hirequeue-job-platform)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔥 NextGPA+
+**Smart GPA Tracker & Predictor**
+
+📘 A modern web app for GPA calculation, analytics, prediction & PDF reports.
+
+🛠️ `React` · `Next.js` · `Supabase` · `Tailwind`
+
+🔗 [**View Repository →**](https://github.com/divejikan-yuvarajah/NextGPA-_Smart-GPA-tracking-Web-App)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
   <a href="https://github.com/divejikan-yuvarajah?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </td>
 </tr>
@@ -299,8 +321,20 @@ Adding ML-based GPA prediction & advanced analytics
 ### 📌 Pinned Repository Showcase
 
 <p align="center">
+  <a href="https://github.com/divejikan-yuvarajah/FlowPilotAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=divejikan-yuvarajah&repo=FlowPilotAI&theme=city_lights&hide_border=true&title_color=22D3EE&icon_color=22D3EE" />
+  </a>
+  <a href="https://github.com/divejikan-yuvarajah/ecosphere-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=divejikan-yuvarajah&repo=ecosphere-ai&theme=city_lights&hide_border=true&title_color=22D3EE&icon_color=22D3EE" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/divejikan-yuvarajah/hirequeue-job-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=divejikan-yuvarajah&repo=hirequeue-job-platform&theme=city_lights&hide_border=true&title_color=22D3EE&icon_color=22D3EE" />
+  </a>
   <a href="https://github.com/divejikan-yuvarajah/NextGPA-_Smart-GPA-tracking-Web-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=divejikan-yuvarajah&repo=NextGPA-_Smart-GPA-tracking-Web-App&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=divejikan-yuvarajah&repo=NextGPA-_Smart-GPA-tracking-Web-App&theme=city_lights&hide_border=true&title_color=22D3EE&icon_color=22D3EE" />
   </a>
 </p>
 
@@ -421,7 +455,7 @@ timeline
 
 <!-- 💬 Random Dev Quote -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
 </p>
 
 <br>
@@ -439,15 +473,15 @@ timeline
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
   <a href="https://github.com/divejikan-yuvarajah">
-    <img src="https://img.shields.io/badge/%E2%AD%90%20Star%20My%20Repos-8A2BE2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/%E2%AD%90%20Star%20My%20Repos-06B6D4?style=for-the-badge" />
   </a>
 </p>
 
 <br>
 
-<!-- 🌊 Animated Footer Wave -->
+<!-- 🌊 Footer Wave (self-hosted; reuse header.svg flipped, or keep capsule below) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=160&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=68" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=160&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=68" width="100%" />
 </p>
 
 <p align="center">
