@@ -1,7 +1,7 @@
 <!-- YUVARAJAH DIVEJIKAN · AI Software Engineer · Zatroz -->
 
 <p align="center">
-  <img src="assets/zatroz-header.svg" width="100%" alt="Yuvarajah Divejikan — AI Software Engineer" />
+  <img src="https://raw.githubusercontent.com/divejikan-yuvarajah/divejikan-yuvarajah/main/assets/zatroz-header.svg" width="100%" alt="Yuvarajah Divejikan — AI Software Engineer" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/zatroz-divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/divejikan-yuvarajah/divejikan-yuvarajah/main/assets/zatroz-divider.svg" width="100%" alt="" />
 </p>
 
 ## Profile
@@ -66,17 +66,17 @@ The aim is simple: become an **AI Software Engineer** who can take an idea to a 
 </table>
 
 <p align="center">
-  <img src="assets/zatroz-divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/divejikan-yuvarajah/divejikan-yuvarajah/main/assets/zatroz-divider.svg" width="100%" alt="" />
 </p>
 
 ## Focus
 
 <p align="center">
-  <img src="assets/zatroz-focus.svg" width="100%" alt="Focus: build, learn, compete, found" />
+  <img src="https://raw.githubusercontent.com/divejikan-yuvarajah/divejikan-yuvarajah/main/assets/zatroz-focus.svg" width="100%" alt="Focus: build, learn, compete, found" />
 </p>
 
 <p align="center">
-  <img src="assets/zatroz-architecture.svg" width="100%" alt="System map: software, intelligence, and delivery into intelligent products" />
+  <img src="https://raw.githubusercontent.com/divejikan-yuvarajah/divejikan-yuvarajah/main/assets/zatroz-architecture.svg" width="100%" alt="System map: software, intelligence, and delivery into intelligent products" />
 </p>
 
 ## Work
@@ -101,8 +101,6 @@ Healthcare assistant for safer access to medical information.
 
 `AI` `GenAI` `Next.js`
 
-[Repository](https://github.com/divejikan-yuvarajah/MediGuardian-AI)
-
 </td>
 </tr>
 <tr>
@@ -112,8 +110,6 @@ Healthcare assistant for safer access to medical information.
 Recruitment platform for candidate and recruiter workflows.
 
 `Full-Stack` `Web`
-
-[Repository](https://github.com/divejikan-yuvarajah/hirequeue-job-platform)
 
 </td>
 <td width="50%" valign="top">
@@ -125,30 +121,16 @@ Invoice pipeline: OCR → structured data → insight.
 
 </td>
 </tr>
-<tr>
-<td colspan="2" valign="top">
-
-**INFRAOS** — national infrastructure intelligence concept for coordination, transparency, and accountability. `MERN` `AI` `GovTech`
-
-</td>
-</tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/divejikan-yuvarajah/FlowPilotAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=divejikan-yuvarajah&repo=FlowPilotAI&hide_border=true&bg_color=080808&title_color=FF3B10&icon_color=FF3B10&text_color=EDEDED" alt="FlowPilot AI" />
-  </a>
-  <a href="https://github.com/divejikan-yuvarajah/MediGuardian-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=divejikan-yuvarajah&repo=MediGuardian-AI&hide_border=true&bg_color=080808&title_color=FF3B10&icon_color=FF3B10&text_color=EDEDED" alt="MediGuardian AI" />
-  </a>
-</p>
+**INFRAOS** — national infrastructure intelligence concept for coordination, transparency, and accountability. `MERN` `AI` `GovTech`
 
 <p align="center">
   <a href="https://github.com/divejikan-yuvarajah?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-111111?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
 </p>
 
 <p align="center">
-  <img src="assets/zatroz-divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/divejikan-yuvarajah/divejikan-yuvarajah/main/assets/zatroz-divider.svg" width="100%" alt="" />
 </p>
 
 ## Zatroz
@@ -159,25 +141,27 @@ The longer bet is **AI-powered operations software for SMEs**: one system for wo
 
 <table>
 <tr>
-<td width="25%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 **Web**  
 Sites and product interfaces
 
 </td>
-<td width="25%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 **Mobile**  
 Business apps that ship
 
 </td>
-<td width="25%" valign="top" align="center">
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
 
 **POS**  
 Day-to-day operations
 
 </td>
-<td width="25%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 **AI**  
 Automation that compounds
@@ -223,82 +207,54 @@ Quarter Finalist · Zatroz
 
 ## Stack
 
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
 <p align="center">
-<strong>Languages</strong><br>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c&theme=dark&perline=5" alt="Languages" />
+  <strong>Languages</strong><br>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c&theme=dark&perline=5" alt="Languages" />
 </p>
-</td>
-<td width="33%" valign="top" align="center">
-<p align="center">
-<strong>Backend</strong><br>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,postman,vscode&theme=dark&perline=5" alt="Backend" />
-</p>
-</td>
-<td width="33%" valign="top" align="center">
-<p align="center">
-<strong>Frontend</strong><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark&perline=5" alt="Frontend" />
-</p>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top" align="center">
-<p align="center">
-<strong>Data</strong><br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase&theme=dark&perline=4" alt="Data" />
-</p>
-</td>
-<td width="33%" valign="top" align="center">
-<p align="center">
-<strong>AI / ML</strong><br>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=4" alt="AI and ML" />
-</p>
-</td>
-<td width="33%" valign="top" align="center">
-<p align="center">
-<strong>Cloud</strong><br>
-<img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github&theme=dark&perline=5" alt="Cloud" />
-</p>
-</td>
-</tr>
-</table>
 
 <p align="center">
-  <img src="assets/zatroz-divider.svg" width="100%" alt="" />
+  <strong>Backend</strong><br>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,postman,vscode&theme=dark&perline=5" alt="Backend" />
+</p>
+
+<p align="center">
+  <strong>Frontend</strong><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark&perline=5" alt="Frontend" />
+</p>
+
+<p align="center">
+  <strong>Data</strong><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase&theme=dark&perline=4" alt="Data" />
+</p>
+
+<p align="center">
+  <strong>AI / ML</strong><br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=4" alt="AI and ML" />
+</p>
+
+<p align="center">
+  <strong>Cloud</strong><br>
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github&theme=dark&perline=5" alt="Cloud" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/divejikan-yuvarajah/divejikan-yuvarajah/main/assets/zatroz-divider.svg" width="100%" alt="" />
 </p>
 
 ## Activity
 
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=divejikan-yuvarajah&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=080808&title_color=FF3B10&icon_color=FF3B10&text_color=EDEDED" width="100%" alt="GitHub stats" />
-</p>
-</td>
-<td width="50%" valign="top" align="center">
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=divejikan-yuvarajah&hide_border=true&background=080808&ring=FF3B10&fire=FF3B10&currStreakLabel=FF3B10&sideLabels=EDEDED&dates=888888&stroke=FF3B10" width="100%" alt="GitHub streak" />
-</p>
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divejikan-yuvarajah&layout=compact&langs_count=6&hide_border=true&bg_color=080808&title_color=FF3B10&text_color=EDEDED" alt="Most used languages" />
+  <img src="https://streak-stats.demolab.com?user=divejikan-yuvarajah&hide_border=true&background=080808&ring=FF3B10&fire=FF3B10&currStreakLabel=FF3B10&sideLabels=EDEDED&dates=888888&stroke=FF3B10" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="assets/zatroz-divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/divejikan-yuvarajah/divejikan-yuvarajah/main/assets/zatroz-divider.svg" width="100%" alt="" />
 </p>
 
 ## Trajectory
 
 <p align="center">
-  <img src="assets/zatroz-timeline.svg" width="100%" alt="Journey from Java in 2022 to AI engineering and Zatroz in 2026" />
+  <img src="https://raw.githubusercontent.com/divejikan-yuvarajah/divejikan-yuvarajah/main/assets/zatroz-timeline.svg" width="100%" alt="Journey from Java in 2022 to AI engineering and Zatroz in 2026" />
 </p>
 
 ## Connect
@@ -318,5 +274,5 @@ Open to software engineering roles, AI product work, hackathons, and focused col
 </p>
 
 <p align="center">
-  <img src="assets/zatroz-footer.svg" width="100%" alt="Yuvarajah Divejikan — AI Software Engineer, Zatroz" />
+  <img src="https://raw.githubusercontent.com/divejikan-yuvarajah/divejikan-yuvarajah/main/assets/zatroz-footer.svg" width="100%" alt="Yuvarajah Divejikan — AI Software Engineer, Zatroz" />
 </p>
