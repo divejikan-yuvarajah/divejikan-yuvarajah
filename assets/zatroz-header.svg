@@ -11,7 +11,7 @@
       <stop offset="42%" stop-color="#000000" stop-opacity="0"/>
       <stop offset="100%" stop-color="#000000" stop-opacity="0.38"/>
     </linearGradient>
-    <radialGradient id="zh-titleGlow" cx="380" cy="250" r="420" gradientUnits="userSpaceOnUse">
+    <radialGradient id="zh-titleGlow" cx="800" cy="250" r="420" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#FF3B10" stop-opacity="0.14"/>
       <stop offset="42%" stop-color="#FF3B10" stop-opacity="0.04"/>
       <stop offset="100%" stop-color="#FF3B10" stop-opacity="0"/>
@@ -26,7 +26,7 @@
       <stop offset="70%" stop-color="#FF3B10"/>
       <stop offset="100%" stop-color="#C42A0A"/>
     </radialGradient>
-    <linearGradient id="zh-bridge" x1="700" y1="248" x2="1128" y2="248" gradientUnits="userSpaceOnUse">
+    <linearGradient id="zh-bridge" x1="1040" y1="248" x2="1128" y2="248" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#FF3B10" stop-opacity="0"/>
       <stop offset="100%" stop-color="#FF3B10" stop-opacity="0.28"/>
     </linearGradient>
@@ -71,7 +71,7 @@
   <rect width="1600" height="500" fill="url(#zh-grid)"/>
   <rect width="1600" height="500" fill="url(#zh-dots)"/>
   <rect width="1600" height="500" fill="url(#zh-vignette)"/>
-  <ellipse cx="380" cy="250" rx="430" ry="190" fill="url(#zh-titleGlow)"/>
+  <ellipse cx="800" cy="250" rx="430" ry="190" fill="url(#zh-titleGlow)"/>
   <ellipse cx="1280" cy="248" rx="270" ry="210" fill="url(#zh-coreGlow)"/>
 
   <g fill="none" stroke="#FF3B10" stroke-width="0.7" opacity="0.12">
@@ -176,21 +176,17 @@
     <text x="1452" y="58" font-size="13" font-weight="600" letter-spacing="2.4" fill="#FF3B10">ZATROZ</text>
   </g>
 
-  <rect x="86" y="152" width="3" height="228" fill="url(#zh-bar)" filter="url(#zh-glow)"/>
-  <rect x="86" y="152" width="3" height="18" fill="#FF3B10"/>
-
-  <g font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
-    <text x="116" y="206" font-size="68" font-weight="700" letter-spacing="3.2" fill="#F4F4F4">YUVARAJAH</text>
-    <text x="116" y="278" font-size="68" font-weight="700" letter-spacing="3.2" fill="#F4F4F4">DIVEJIKAN</text>
-    <rect x="118" y="296" width="108" height="2.4" fill="#FF3B10" filter="url(#zh-glow)"/>
-    <rect x="118" y="296" width="22" height="2.4" fill="#FF8A6A">
-      <animate attributeName="x" values="118;204;118" dur="7.5s" repeatCount="indefinite"/>
+  <g font-family="'Space Grotesk', Inter, 'Segoe UI Semibold', 'Segoe UI', 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" text-anchor="middle">
+    <text x="800" y="214" font-size="64" font-weight="700" letter-spacing="2" fill="#F4F4F4">YUVARAJAH DIVEJIKAN</text>
+    <rect x="746" y="232" width="108" height="2.4" fill="#FF3B10" filter="url(#zh-glow)"/>
+    <rect x="746" y="232" width="22" height="2.4" fill="#FF8A6A">
+      <animate attributeName="x" values="746;832;746" dur="7.5s" repeatCount="indefinite"/>
     </rect>
-    <text x="118" y="338" font-size="24" font-weight="600" letter-spacing="3.6" fill="#FF3B10">
+    <text x="800" y="278" font-size="22" font-weight="600" letter-spacing="3.4" fill="#FF3B10">
       AI SOFTWARE ENGINEER
       <animate attributeName="opacity" values="0.82;1;0.82" dur="5.5s" repeatCount="indefinite"/>
     </text>
-    <text x="118" y="372" font-size="15" font-weight="500" letter-spacing="1.4" fill="#9C9C9C">SOFTWARE ENGINEERING  &#183;  AI  &#183;  AUTOMATION  &#183;  ENTREPRENEURSHIP</text>
+    <text x="800" y="312" font-size="14" font-weight="500" letter-spacing="1.6" fill="#9C9C9C">SOFTWARE ENGINEERING  &#183;  AI  &#183;  AUTOMATION  &#183;  ENTREPRENEURSHIP</text>
   </g>
 
   <g font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" fill="#7A7A7A" font-size="11" letter-spacing="1.4">
@@ -198,17 +194,17 @@
     <text x="1512" y="450" text-anchor="end">AI ENGINEERING  /  2026</text>
   </g>
 
-  <line x1="700" y1="248" x2="1128" y2="248" stroke="url(#zh-bridge)" stroke-width="1"/>
-  <line x1="700" y1="248" x2="1128" y2="248" stroke="#FF3B10" stroke-width="1" stroke-dasharray="4 14" opacity="0.28">
+  <line x1="1040" y1="248" x2="1128" y2="248" stroke="url(#zh-bridge)" stroke-width="1"/>
+  <line x1="1040" y1="248" x2="1128" y2="248" stroke="#FF3B10" stroke-width="1" stroke-dasharray="4 14" opacity="0.28">
     <animate attributeName="stroke-dashoffset" values="0;-36" dur="3.4s" repeatCount="indefinite"/>
   </line>
   <circle r="1.8" fill="#FF3B10" opacity="0.7">
-    <animateMotion dur="6.8s" repeatCount="indefinite" path="M760,248 L1128,248"/>
-    <animate attributeName="opacity" values="0;0.8;0.8;0" dur="6.8s" repeatCount="indefinite"/>
+    <animateMotion dur="4.2s" repeatCount="indefinite" path="M1040,248 L1128,248"/>
+    <animate attributeName="opacity" values="0;0.8;0.8;0" dur="4.2s" repeatCount="indefinite"/>
   </circle>
   <circle r="1.4" fill="#FF8A6A" opacity="0.6">
-    <animateMotion dur="6.8s" begin="3.4s" repeatCount="indefinite" path="M1128,248 L760,248"/>
-    <animate attributeName="opacity" values="0;0.65;0.65;0" dur="6.8s" begin="3.4s" repeatCount="indefinite"/>
+    <animateMotion dur="4.2s" begin="2.1s" repeatCount="indefinite" path="M1128,248 L1040,248"/>
+    <animate attributeName="opacity" values="0;0.65;0.65;0" dur="4.2s" begin="2.1s" repeatCount="indefinite"/>
   </circle>
 
   <g stroke="#FF3B10" stroke-width="0.9" fill="none" opacity="0.38">
