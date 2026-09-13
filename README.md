@@ -36,8 +36,8 @@
 ## Profile
 
 <table>
-  <tr>
-    <td width="58%" valign="top">
+<tr>
+<td width="58%" valign="top">
 
 I build software that can reason, retrieve, and act.
 
@@ -45,8 +45,8 @@ I build software that can reason, retrieve, and act.
 
 `Software Engineering × AI × Automation → real products`
 
-    </td>
-    <td width="42%" valign="top">
+</td>
+<td width="42%" valign="top">
 
 **Now**
 
@@ -56,8 +56,8 @@ I build software that can reason, retrieve, and act.
 - Cloud and automation
 - Shipping via **Zatroz**
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -73,8 +73,8 @@ I build software that can reason, retrieve, and act.
 ## Work
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 **FlowPilot AI**  
 AI financial assistant for SMEs.  
@@ -84,8 +84,8 @@ AI financial assistant for SMEs.
 
 [Repository](https://github.com/divejikan-yuvarajah/FlowPilotAI)
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 **MediGuardian AI**  
 Healthcare assistant for safer access to medical information.
@@ -94,10 +94,10 @@ Healthcare assistant for safer access to medical information.
 
 [Repository](https://github.com/divejikan-yuvarajah/MediGuardian-AI)
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **HireQueue**  
 Recruitment platform for candidate and recruiter workflows.
@@ -106,16 +106,16 @@ Recruitment platform for candidate and recruiter workflows.
 
 [Repository](https://github.com/divejikan-yuvarajah/hirequeue-job-platform)
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 **InvoiceX AI**  
 Invoice pipeline: OCR → structured data → insight.
 
 `AI` `OCR` `n8n`
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -133,81 +133,81 @@ Co-founder of **Zatroz**. We build practical software for businesses — web, mo
 ## Recognition
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 **Cursor Buildathon Colombo 2026**  
 1st Place — FinTech  
 FlowPilot AI · Team ZeroDB
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 **Interfaculty Designathon 2026**  
 1st Runner Up  
 Team NeuraForm
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **IDEALIZE**  
 Semi Finalist
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 **IEEE Innovation Nation Sri Lanka**  
 Quarter Finalist · Zatroz
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ## Stack
 
 <table>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <p align="center">
-        <strong>Languages</strong><br>
-        <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c&theme=dark&perline=5" alt="Languages" />
-      </p>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <p align="center">
-        <strong>Backend</strong><br>
-        <img src="https://skillicons.dev/icons?i=spring,nodejs,express,postman,vscode&theme=dark&perline=5" alt="Backend" />
-      </p>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <p align="center">
-        <strong>Frontend</strong><br>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark&perline=5" alt="Frontend" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <p align="center">
-        <strong>Data</strong><br>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase&theme=dark&perline=4" alt="Data" />
-      </p>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <p align="center">
-        <strong>AI / ML</strong><br>
-        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=4" alt="AI and ML" />
-      </p>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <p align="center">
-        <strong>Cloud</strong><br>
-        <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github&theme=dark&perline=5" alt="Cloud" />
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top" align="center">
+<p align="center">
+<strong>Languages</strong><br>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c&theme=dark&perline=5" alt="Languages" />
+</p>
+</td>
+<td width="33%" valign="top" align="center">
+<p align="center">
+<strong>Backend</strong><br>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,postman,vscode&theme=dark&perline=5" alt="Backend" />
+</p>
+</td>
+<td width="33%" valign="top" align="center">
+<p align="center">
+<strong>Frontend</strong><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark&perline=5" alt="Frontend" />
+</p>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+<p align="center">
+<strong>Data</strong><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase&theme=dark&perline=4" alt="Data" />
+</p>
+</td>
+<td width="33%" valign="top" align="center">
+<p align="center">
+<strong>AI / ML</strong><br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=4" alt="AI and ML" />
+</p>
+</td>
+<td width="33%" valign="top" align="center">
+<p align="center">
+<strong>Cloud</strong><br>
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github&theme=dark&perline=5" alt="Cloud" />
+</p>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -217,18 +217,18 @@ Quarter Finalist · Zatroz
 ## Activity
 
 <table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=divejikan-yuvarajah&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=080808&title_color=FF3B10&icon_color=FF3B10&text_color=EDEDED" width="100%" alt="GitHub stats" />
-      </p>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <p align="center">
-        <img src="https://streak-stats.demolab.com?user=divejikan-yuvarajah&hide_border=true&background=080808&ring=FF3B10&fire=FF3B10&currStreakLabel=FF3B10&sideLabels=EDEDED&dates=888888&stroke=FF3B10" width="100%" alt="GitHub streak" />
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=divejikan-yuvarajah&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=080808&title_color=FF3B10&icon_color=FF3B10&text_color=EDEDED" width="100%" alt="GitHub stats" />
+</p>
+</td>
+<td width="50%" valign="top" align="center">
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=divejikan-yuvarajah&hide_border=true&background=080808&ring=FF3B10&fire=FF3B10&currStreakLabel=FF3B10&sideLabels=EDEDED&dates=888888&stroke=FF3B10" width="100%" alt="GitHub streak" />
+</p>
+</td>
+</tr>
 </table>
 
 <p align="center">
