@@ -5,15 +5,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=FF3B10&center=true&vCenter=true&width=780&lines=AI+Software+Engineer+%7C+Builder+%7C+Founder;Designing+systems+that+think+and+ship;LLMs+%7C+RAG+%7C+Agents+%7C+MCP;Java+%7C+Spring+Boot+%7C+React+%7C+Next.js" alt="Yuvarajah Divejikan introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=FF3B10&center=true&vCenter=true&width=820&lines=AI+Software+Engineer+%7C+Builder+%7C+Founder;Designing+systems+that+think+and+ship;LLMs+%7C+RAG+%7C+Agents+%7C+MCP;Java+%7C+Spring+Boot+%7C+React+%7C+Next.js;Building+Zatroz+for+real+businesses" alt="Yuvarajah Divejikan introduction" />
 </p>
 
 <p align="center">
   <a href="#profile">Profile</a>
   &nbsp;·&nbsp;
-  <a href="#systems">Systems</a>
+  <a href="#focus">Focus</a>
   &nbsp;·&nbsp;
   <a href="#work">Work</a>
+  &nbsp;·&nbsp;
+  <a href="#zatroz">Zatroz</a>
   &nbsp;·&nbsp;
   <a href="#recognition">Recognition</a>
   &nbsp;·&nbsp;
@@ -27,6 +29,7 @@
   <a href="https://github.com/divejikan-yuvarajah"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/divejikan-yuvarajah-401526279"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:divejuthe@gmail.com"><img src="https://img.shields.io/badge/Email-FF3B10?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://medium.com/@Yuvarajah_Divejikan"><img src="https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
 <p align="center">
@@ -41,7 +44,9 @@
 
 I build software that can reason, retrieve, and act.
 
-**BICT (Hons)** undergraduate at South Eastern University of Sri Lanka. Co-founder of **Zatroz**. Working toward becoming an **AI Software Engineer** who can take a product from API and infrastructure through to an intelligent production layer.
+**BICT (Hons)** undergraduate at South Eastern University of Sri Lanka and co-founder of **Zatroz**. I work at the intersection of software engineering, AI, and automation — from APIs and data models to RAG, agents, and the last mile of shipping.
+
+The aim is simple: become an **AI Software Engineer** who can take an idea to a production system.
 
 `Software Engineering × AI × Automation → real products`
 
@@ -51,10 +56,10 @@ I build software that can reason, retrieve, and act.
 **Now**
 
 - RAG, agents, and MCP
-- Java / Spring Boot
-- React / Next.js
-- Cloud and automation
-- Shipping via **Zatroz**
+- Java / Spring Boot backends
+- React / Next.js products
+- AWS, Linux, and automation
+- Shipping through **Zatroz**
 
 </td>
 </tr>
@@ -64,7 +69,11 @@ I build software that can reason, retrieve, and act.
   <img src="assets/zatroz-divider.svg" width="100%" alt="" />
 </p>
 
-## Systems
+## Focus
+
+<p align="center">
+  <img src="assets/zatroz-focus.svg" width="100%" alt="Focus: build, learn, compete, found" />
+</p>
 
 <p align="center">
   <img src="assets/zatroz-architecture.svg" width="100%" alt="System map: software, intelligence, and delivery into intelligent products" />
@@ -77,7 +86,7 @@ I build software that can reason, retrieve, and act.
 <td width="50%" valign="top">
 
 **FlowPilot AI**  
-AI financial assistant for SMEs.  
+AI financial operating assistant for SMEs.  
 1st Place, FinTech — Cursor Buildathon Colombo 2026.
 
 `AI` `LLM` `FinTech`
@@ -116,7 +125,23 @@ Invoice pipeline: OCR → structured data → insight.
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+**INFRAOS** — national infrastructure intelligence concept for coordination, transparency, and accountability. `MERN` `AI` `GovTech`
+
+</td>
+</tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/divejikan-yuvarajah/FlowPilotAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=divejikan-yuvarajah&repo=FlowPilotAI&hide_border=true&bg_color=080808&title_color=FF3B10&icon_color=FF3B10&text_color=EDEDED" alt="FlowPilot AI" />
+  </a>
+  <a href="https://github.com/divejikan-yuvarajah/MediGuardian-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=divejikan-yuvarajah&repo=MediGuardian-AI&hide_border=true&bg_color=080808&title_color=FF3B10&icon_color=FF3B10&text_color=EDEDED" alt="MediGuardian AI" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/divejikan-yuvarajah?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-111111?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
@@ -128,7 +153,38 @@ Invoice pipeline: OCR → structured data → insight.
 
 ## Zatroz
 
-Co-founder of **Zatroz**. We build practical software for businesses — web, mobile, POS, and AI automation — with a longer bet on **AI-powered operations software for SMEs**.
+Co-founder of **Zatroz**. We build practical software for businesses — web, mobile, POS, and AI automation.
+
+The longer bet is **AI-powered operations software for SMEs**: one system for workflows, data, and intelligence.
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center">
+
+**Web**  
+Sites and product interfaces
+
+</td>
+<td width="25%" valign="top" align="center">
+
+**Mobile**  
+Business apps that ship
+
+</td>
+<td width="25%" valign="top" align="center">
+
+**POS**  
+Day-to-day operations
+
+</td>
+<td width="25%" valign="top" align="center">
+
+**AI**  
+Automation that compounds
+
+</td>
+</tr>
+</table>
 
 ## Recognition
 
@@ -232,6 +288,10 @@ Quarter Finalist · Zatroz
 </table>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divejikan-yuvarajah&layout=compact&langs_count=6&hide_border=true&bg_color=080808&title_color=FF3B10&text_color=EDEDED" alt="Most used languages" />
+</p>
+
+<p align="center">
   <img src="assets/zatroz-divider.svg" width="100%" alt="" />
 </p>
 
@@ -243,13 +303,18 @@ Quarter Finalist · Zatroz
 
 ## Connect
 
-Open to software engineering roles, AI product work, and focused collaboration.
+Open to software engineering roles, AI product work, hackathons, and focused collaboration.
 
 <p align="center">
   <a href="mailto:divejuthe@gmail.com"><img src="https://img.shields.io/badge/Email-FF3B10?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/divejikan-yuvarajah-401526279"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://divejikan-yuvarajah-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF3B10?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/divejikan-yuvarajah"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://medium.com/@Yuvarajah_Divejikan"><img src="https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+</p>
+
+<p align="center">
+  <strong>Write · Build · Break · Learn · Repeat</strong>
 </p>
 
 <p align="center">

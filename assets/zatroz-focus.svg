@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1600 240" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Current focus: build, learn, compete, found">
+  <defs>
+    <linearGradient id="zfoc-bg" x1="0" y1="0" x2="1600" y2="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#080808"/>
+      <stop offset="100%" stop-color="#0C0908"/>
+    </linearGradient>
+    <linearGradient id="zfoc-card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#141414"/>
+      <stop offset="100%" stop-color="#0E0E0E"/>
+    </linearGradient>
+    <filter id="zfoc-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="240" fill="url(#zfoc-bg)"/>
+  <rect x="16" y="16" width="1568" height="208" fill="none" stroke="#1A1A1A" stroke-width="1"/>
+  <text x="48" y="48" font-family="'JetBrains Mono', Consolas, monospace" font-size="12" letter-spacing="2.2" fill="#7A7A7A">FOCUS</text>
+  <text x="1552" y="48" text-anchor="end" font-family="'JetBrains Mono', Consolas, monospace" font-size="12" letter-spacing="2.2" fill="#FF3B10">2026</text>
+
+  <g>
+    <rect x="56" y="72" width="352" height="132" rx="6" fill="url(#zfoc-card)" stroke="#2A2A2A">
+      <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="56" y="72" width="4" height="132" fill="#FF3B10"/>
+    <text x="84" y="112" font-family="'JetBrains Mono', Consolas, monospace" font-size="13" fill="#FF3B10">01</text>
+    <text x="84" y="148" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="24" font-weight="700" fill="#F2F2F2">BUILD</text>
+    <text x="84" y="176" font-family="'JetBrains Mono', Consolas, monospace" font-size="13" fill="#8A8A8A">AI products + backends</text>
+  </g>
+  <g>
+    <rect x="432" y="72" width="352" height="132" rx="6" fill="url(#zfoc-card)" stroke="#2A2A2A">
+      <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4.8s" begin="1.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="432" y="72" width="4" height="132" fill="#FF3B10"/>
+    <text x="460" y="112" font-family="'JetBrains Mono', Consolas, monospace" font-size="13" fill="#FF3B10">02</text>
+    <text x="460" y="148" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="24" font-weight="700" fill="#F2F2F2">LEARN</text>
+    <text x="460" y="176" font-family="'JetBrains Mono', Consolas, monospace" font-size="13" fill="#8A8A8A">RAG  &#183;  Agents  &#183;  MCP</text>
+  </g>
+  <g>
+    <rect x="808" y="72" width="352" height="132" rx="6" fill="url(#zfoc-card)" stroke="#2A2A2A">
+      <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4.8s" begin="2.4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="808" y="72" width="4" height="132" fill="#FF3B10"/>
+    <text x="836" y="112" font-family="'JetBrains Mono', Consolas, monospace" font-size="13" fill="#FF3B10">03</text>
+    <text x="836" y="148" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="24" font-weight="700" fill="#F2F2F2">COMPETE</text>
+    <text x="836" y="176" font-family="'JetBrains Mono', Consolas, monospace" font-size="13" fill="#8A8A8A">Hackathons + shipping</text>
+  </g>
+  <g>
+    <rect x="1184" y="72" width="360" height="132" rx="6" fill="url(#zfoc-card)" stroke="#2A2A2A">
+      <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4.8s" begin="3.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="1184" y="72" width="4" height="132" fill="#FF3B10"/>
+    <text x="1212" y="112" font-family="'JetBrains Mono', Consolas, monospace" font-size="13" fill="#FF3B10">04</text>
+    <text x="1212" y="148" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="24" font-weight="700" fill="#F2F2F2">FOUND</text>
+    <text x="1212" y="176" font-family="'JetBrains Mono', Consolas, monospace" font-size="13" fill="#8A8A8A">Zatroz for SMEs</text>
+  </g>
+
+  <circle cx="408" cy="138" r="2.4" fill="#FF3B10" filter="url(#zfoc-glow)">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="784" cy="138" r="2.4" fill="#FF3B10" filter="url(#zfoc-glow)">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.8s" begin="0.9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1160" cy="138" r="2.4" fill="#FF3B10" filter="url(#zfoc-glow)">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.8s" begin="1.8s" repeatCount="indefinite"/>
+  </circle>
+</svg>

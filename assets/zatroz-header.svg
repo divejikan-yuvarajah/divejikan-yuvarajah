@@ -11,9 +11,9 @@
       <stop offset="42%" stop-color="#000000" stop-opacity="0"/>
       <stop offset="100%" stop-color="#000000" stop-opacity="0.38"/>
     </linearGradient>
-    <radialGradient id="zh-titleGlow" cx="800" cy="250" r="420" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#FF3B10" stop-opacity="0.14"/>
-      <stop offset="42%" stop-color="#FF3B10" stop-opacity="0.04"/>
+    <radialGradient id="zh-titleGlow" cx="800" cy="240" r="460" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FF3B10" stop-opacity="0.18"/>
+      <stop offset="38%" stop-color="#FF3B10" stop-opacity="0.06"/>
       <stop offset="100%" stop-color="#FF3B10" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="zh-coreGlow" cx="1280" cy="248" r="240" gradientUnits="userSpaceOnUse">
@@ -71,7 +71,7 @@
   <rect width="1600" height="500" fill="url(#zh-grid)"/>
   <rect width="1600" height="500" fill="url(#zh-dots)"/>
   <rect width="1600" height="500" fill="url(#zh-vignette)"/>
-  <ellipse cx="800" cy="250" rx="430" ry="190" fill="url(#zh-titleGlow)"/>
+  <ellipse cx="800" cy="240" rx="480" ry="210" fill="url(#zh-titleGlow)"/>
   <ellipse cx="1280" cy="248" rx="270" ry="210" fill="url(#zh-coreGlow)"/>
 
   <g fill="none" stroke="#FF3B10" stroke-width="0.7" opacity="0.12">
@@ -176,17 +176,20 @@
     <text x="1452" y="58" font-size="13" font-weight="600" letter-spacing="2.4" fill="#FF3B10">ZATROZ</text>
   </g>
 
-  <g font-family="'Space Grotesk', Inter, 'Segoe UI Semibold', 'Segoe UI', 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" text-anchor="middle">
-    <text x="800" y="214" font-size="64" font-weight="700" letter-spacing="2" fill="#F4F4F4">YUVARAJAH DIVEJIKAN</text>
-    <rect x="746" y="232" width="108" height="2.4" fill="#FF3B10" filter="url(#zh-glow)"/>
-    <rect x="746" y="232" width="22" height="2.4" fill="#FF8A6A">
-      <animate attributeName="x" values="746;832;746" dur="7.5s" repeatCount="indefinite"/>
+  <g font-family="'Segoe UI Variable Display', 'SF Pro Display', 'Space Grotesk', Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" text-anchor="middle">
+    <text x="800" y="198" font-size="78" font-weight="700" letter-spacing="1.5" fill="#F7F7F7">YUVARAJAH</text>
+    <text x="800" y="278" font-size="78" font-weight="700" letter-spacing="1.5" fill="#F7F7F7">DIVEJIKAN</text>
+    <rect x="724" y="298" width="152" height="3" fill="#FF3B10" filter="url(#zh-glow)">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="3.6s" repeatCount="indefinite"/>
     </rect>
-    <text x="800" y="278" font-size="22" font-weight="600" letter-spacing="3.4" fill="#FF3B10">
+    <rect x="724" y="298" width="28" height="3" fill="#FF8A6A">
+      <animate attributeName="x" values="724;848;724" dur="7.5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="800" y="344" font-size="24" font-weight="600" letter-spacing="4" fill="#FF3B10">
       AI SOFTWARE ENGINEER
       <animate attributeName="opacity" values="0.82;1;0.82" dur="5.5s" repeatCount="indefinite"/>
     </text>
-    <text x="800" y="312" font-size="14" font-weight="500" letter-spacing="1.6" fill="#9C9C9C">SOFTWARE ENGINEERING  &#183;  AI  &#183;  AUTOMATION  &#183;  ENTREPRENEURSHIP</text>
+    <text x="800" y="378" font-size="15" font-weight="500" letter-spacing="1.8" fill="#A3A3A3">SOFTWARE ENGINEERING  &#183;  AI  &#183;  AUTOMATION  &#183;  ENTREPRENEURSHIP</text>
   </g>
 
   <g font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" fill="#7A7A7A" font-size="11" letter-spacing="1.4">
