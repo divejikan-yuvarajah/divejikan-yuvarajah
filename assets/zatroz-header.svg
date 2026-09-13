@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1600 500" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Yuvarajah Divejikan - AI Software Engineer">
+  <defs>
+    <linearGradient id="zh-bg" x1="0" y1="0" x2="1600" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#080808"/>
+      <stop offset="48%" stop-color="#0B0B0B"/>
+      <stop offset="100%" stop-color="#0C0908"/>
+    </linearGradient>
+    <linearGradient id="zh-vignette" x1="800" y1="0" x2="800" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.28"/>
+      <stop offset="42%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.38"/>
+    </linearGradient>
+    <radialGradient id="zh-titleGlow" cx="380" cy="250" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FF3B10" stop-opacity="0.14"/>
+      <stop offset="42%" stop-color="#FF3B10" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#FF3B10" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="zh-coreGlow" cx="1280" cy="248" r="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FF3B10" stop-opacity="0.16"/>
+      <stop offset="55%" stop-color="#FF3B10" stop-opacity="0.03"/>
+      <stop offset="100%" stop-color="#FF3B10" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="zh-nodeFill" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF6A3D"/>
+      <stop offset="70%" stop-color="#FF3B10"/>
+      <stop offset="100%" stop-color="#C42A0A"/>
+    </radialGradient>
+    <linearGradient id="zh-bridge" x1="700" y1="248" x2="1128" y2="248" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FF3B10" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#FF3B10" stop-opacity="0.28"/>
+    </linearGradient>
+    <linearGradient id="zh-bar" x1="0" y1="150" x2="0" y2="380" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FF3B10" stop-opacity="0.15"/>
+      <stop offset="35%" stop-color="#FF3B10" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#FF3B10" stop-opacity="0.2"/>
+    </linearGradient>
+    <pattern id="zh-grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#FFFFFF" stroke-width="0.4" opacity="0.035"/>
+      <animateTransform attributeName="patternTransform" type="translate" values="0,0;48,48" dur="28s" repeatCount="indefinite"/>
+    </pattern>
+    <pattern id="zh-dots" width="96" height="96" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.8" fill="#FF3B10" opacity="0.16"/>
+    </pattern>
+    <filter id="zh-glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="3.2" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="zh-soft" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+      </feMerge>
+    </filter>
+    <path id="zh-p1" d="M1280,248 L1168,152"/>
+    <path id="zh-p2" d="M1280,248 L1288,118"/>
+    <path id="zh-p3" d="M1280,248 L1418,158"/>
+    <path id="zh-p4" d="M1280,248 L1468,258"/>
+    <path id="zh-p5" d="M1280,248 L1408,358"/>
+    <path id="zh-p6" d="M1280,248 L1272,388"/>
+    <path id="zh-p7" d="M1280,248 L1148,348"/>
+    <path id="zh-p8" d="M1280,248 L1128,248"/>
+    <path id="zh-p9" d="M1168,152 L1288,118"/>
+    <path id="zh-p10" d="M1408,358 L1468,258"/>
+  </defs>
+
+  <rect width="1600" height="500" fill="url(#zh-bg)"/>
+  <rect width="1600" height="500" fill="url(#zh-grid)"/>
+  <rect width="1600" height="500" fill="url(#zh-dots)"/>
+  <rect width="1600" height="500" fill="url(#zh-vignette)"/>
+  <ellipse cx="380" cy="250" rx="430" ry="190" fill="url(#zh-titleGlow)"/>
+  <ellipse cx="1280" cy="248" rx="270" ry="210" fill="url(#zh-coreGlow)"/>
+
+  <g fill="none" stroke="#FF3B10" stroke-width="0.7" opacity="0.12">
+    <path d="M48 118 H168 L188 138 H310"/>
+    <path d="M48 392 H210 L230 372 H360"/>
+    <path d="M48 118 V210 L68 230 V310"/>
+    <path d="M1552 118 H1432 L1412 138 H1320"/>
+    <path d="M1552 392 H1390 L1370 372 H1260"/>
+  </g>
+  <g fill="none" stroke="#FF3B10" stroke-width="1" stroke-dasharray="5 14" opacity="0.22">
+    <path d="M48 118 H168 L188 138 H310">
+      <animate attributeName="stroke-dashoffset" values="0;-76" dur="5.5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1552 392 H1390 L1370 372 H1260">
+      <animate attributeName="stroke-dashoffset" values="0;76" dur="6.5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g fill="#FF3B10">
+    <circle cx="168" cy="118" r="1.6" opacity="0.45"/>
+    <circle cx="310" cy="138" r="1.4" opacity="0.35"/>
+    <circle cx="210" cy="392" r="1.5" opacity="0.4"/>
+    <circle cx="1432" cy="118" r="1.4" opacity="0.35"/>
+    <circle cx="1390" cy="392" r="1.5" opacity="0.4"/>
+  </g>
+
+  <g fill="#FFFFFF">
+    <circle cx="220" cy="86" r="1.1" opacity="0.18">
+      <animate attributeName="opacity" values="0.08;0.28;0.08" dur="4.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="540" cy="430" r="1.1" opacity="0.16">
+      <animate attributeName="opacity" values="0.06;0.24;0.06" dur="5.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="760" cy="70" r="1" opacity="0.14">
+      <animate attributeName="opacity" values="0.05;0.22;0.05" dur="3.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="980" cy="420" r="1.2" opacity="0.15">
+      <animate attributeName="opacity" values="0.06;0.26;0.06" dur="4.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="620" cy="140" r="1" opacity="0.12">
+      <animate attributeName="opacity" values="0.04;0.2;0.04" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g opacity="0.55">
+    <circle cx="260" cy="400" r="1.4" fill="#FF3B10">
+      <animate attributeName="cy" values="410;90;410" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.55;0.55;0" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="490" cy="90" r="1.2" fill="#FF3B10">
+      <animate attributeName="cy" values="80;400;80" dur="16s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.4;0.4;0" dur="16s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="820" cy="360" r="1.3" fill="#FFFFFF">
+      <animate attributeName="cy" values="380;110;380" dur="18s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.28;0.28;0" dur="18s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <rect x="18" y="18" width="1564" height="464" fill="none" stroke="#1A1A1A" stroke-width="1"/>
+  <rect x="22" y="22" width="1556" height="456" fill="none" stroke="#FF3B10" stroke-width="0.6" opacity="0.14"/>
+  <g fill="none" stroke="#FF3B10" stroke-width="1.6" stroke-linecap="square" opacity="0.7">
+    <path d="M34 62 V34 H62"/>
+    <path d="M1566 62 V34 H1538"/>
+    <path d="M34 438 V466 H62"/>
+    <path d="M1566 438 V466 H1538"/>
+  </g>
+
+  <g font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" fill="#C9C9C9">
+    <circle cx="88" cy="62" r="3.4" fill="#FF3B10" filter="url(#zh-glow)">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="88" cy="62" r="7" fill="none" stroke="#FF3B10" stroke-width="0.7" opacity="0.35">
+      <animate attributeName="r" values="6;11;6" dur="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.35;0;0.35" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="102" y="66" font-size="12" letter-spacing="1.8" fill="#D0D0D0">SYSTEM ONLINE</text>
+    <rect x="268" y="55" width="2" height="8" fill="#FF3B10" opacity="0.35"/>
+    <rect x="273" y="52" width="2" height="11" fill="#FF3B10" opacity="0.55"/>
+    <rect x="278" y="49" width="2" height="14" fill="#FF3B10" opacity="0.8"/>
+    <rect x="283" y="47" width="2" height="16" fill="#FF3B10">
+      <animate attributeName="opacity" values="0.45;1;0.45" dur="3.4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <g font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace">
+    <rect x="1436" y="50" width="8" height="8" fill="#FF3B10" opacity="0.95"/>
+    <rect x="1439" y="53" width="2.2" height="2.2" fill="#0B0B0B"/>
+    <text x="1452" y="58" font-size="13" font-weight="600" letter-spacing="2.4" fill="#FF3B10">ZATROZ</text>
+  </g>
+
+  <rect x="86" y="152" width="3" height="228" fill="url(#zh-bar)" filter="url(#zh-glow)"/>
+  <rect x="86" y="152" width="3" height="18" fill="#FF3B10"/>
+
+  <g font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <text x="116" y="206" font-size="68" font-weight="700" letter-spacing="3.2" fill="#F4F4F4">YUVARAJAH</text>
+    <text x="116" y="278" font-size="68" font-weight="700" letter-spacing="3.2" fill="#F4F4F4">DIVEJIKAN</text>
+    <rect x="118" y="296" width="108" height="2.4" fill="#FF3B10" filter="url(#zh-glow)"/>
+    <rect x="118" y="296" width="22" height="2.4" fill="#FF8A6A">
+      <animate attributeName="x" values="118;204;118" dur="7.5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="118" y="338" font-size="24" font-weight="600" letter-spacing="3.6" fill="#FF3B10">AI SOFTWARE ENGINEER</text>
+    <text x="118" y="372" font-size="15" font-weight="500" letter-spacing="1.4" fill="#9C9C9C">SOFTWARE ENGINEERING  &#183;  AI  &#183;  AUTOMATION  &#183;  ENTREPRENEURSHIP</text>
+  </g>
+
+  <g font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" fill="#7A7A7A" font-size="11" letter-spacing="1.4">
+    <text x="88" y="450">BUILDING INTELLIGENT SYSTEMS</text>
+    <text x="1512" y="450" text-anchor="end">AI ENGINEERING  /  2026</text>
+  </g>
+
+  <line x1="700" y1="248" x2="1128" y2="248" stroke="url(#zh-bridge)" stroke-width="1"/>
+  <circle r="1.8" fill="#FF3B10" opacity="0.7">
+    <animateMotion dur="6.8s" repeatCount="indefinite" path="M760,248 L1128,248"/>
+    <animate attributeName="opacity" values="0;0.8;0.8;0" dur="6.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <g stroke="#FF3B10" stroke-width="0.9" fill="none" opacity="0.38">
+    <path d="M1280,248 L1168,152"/>
+    <path d="M1280,248 L1288,118"/>
+    <path d="M1280,248 L1418,158"/>
+    <path d="M1280,248 L1468,258"/>
+    <path d="M1280,248 L1408,358"/>
+    <path d="M1280,248 L1272,388"/>
+    <path d="M1280,248 L1148,348"/>
+    <path d="M1280,248 L1128,248"/>
+    <path d="M1168,152 L1288,118"/>
+    <path d="M1408,358 L1468,258"/>
+    <path d="M1168,152 L1128,248"/>
+    <path d="M1418,158 L1468,258"/>
+    <path d="M1148,348 L1272,388"/>
+    <path d="M1220,198 L1280,248"/>
+    <path d="M1355,298 L1280,248"/>
+  </g>
+
+  <g fill="#FF3B10">
+    <circle r="2.1" opacity="0.85">
+      <animateMotion dur="4.6s" repeatCount="indefinite" path="M1280,248 L1168,152"/>
+      <animate attributeName="opacity" values="0;0.9;0.9;0" dur="4.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="1.8" opacity="0.75">
+      <animateMotion dur="5.2s" repeatCount="indefinite" path="M1280,248 L1418,158"/>
+      <animate attributeName="opacity" values="0;0.85;0.85;0" dur="5.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="2" opacity="0.8">
+      <animateMotion dur="4.2s" repeatCount="indefinite" path="M1280,248 L1468,258"/>
+      <animate attributeName="opacity" values="0;0.9;0.9;0" dur="4.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="1.7" opacity="0.7">
+      <animateMotion dur="5.8s" repeatCount="indefinite" path="M1280,248 L1148,348"/>
+      <animate attributeName="opacity" values="0;0.8;0.8;0" dur="5.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="1.9" opacity="0.8">
+      <animateMotion dur="6.1s" repeatCount="indefinite" path="M1280,248 L1128,248"/>
+      <animate attributeName="opacity" values="0;0.85;0.85;0" dur="6.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="1.6" opacity="0.7">
+      <animateMotion dur="5.4s" repeatCount="indefinite" path="M1280,248 L1272,388"/>
+      <animate attributeName="opacity" values="0;0.75;0.75;0" dur="5.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="1.5" opacity="0.65">
+      <animateMotion dur="7s" repeatCount="indefinite" path="M1168,152 L1288,118"/>
+      <animate attributeName="opacity" values="0;0.7;0.7;0" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="1.6" opacity="0.7">
+      <animateMotion dur="6.4s" repeatCount="indefinite" path="M1408,358 L1468,258"/>
+      <animate attributeName="opacity" values="0;0.75;0.75;0" dur="6.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g fill="none" stroke="#FF3B10">
+    <circle cx="1280" cy="248" r="56" stroke-width="0.6" stroke-dasharray="2 11" opacity="0.22">
+      <animate attributeName="stroke-dashoffset" values="0;13" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1280" cy="248" r="78" stroke-width="0.45" stroke-dasharray="1 16" opacity="0.12">
+      <animate attributeName="stroke-dashoffset" values="17;0" dur="16s" repeatCount="indefinite"/>
+    </circle>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 1280 248" to="360 1280 248" dur="42s" repeatCount="indefinite"/>
+      <polygon points="1280,214 1310,231 1310,265 1280,282 1250,265 1250,231" stroke-width="0.7" opacity="0.32"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="360 1280 248" to="0 1280 248" dur="56s" repeatCount="indefinite"/>
+      <polygon points="1280,226 1302,237 1302,259 1280,270 1258,259 1258,237" stroke-width="0.55" opacity="0.2"/>
+    </g>
+  </g>
+
+  <circle cx="1280" cy="248" r="36" fill="#FF3B10" opacity="0.12" filter="url(#zh-soft)"/>
+  <circle cx="1280" cy="248" r="11" fill="url(#zh-nodeFill)" filter="url(#zh-glow)">
+    <animate attributeName="r" values="10;12.2;10" dur="4.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1280" cy="248" r="4.2" fill="#FFFFFF" opacity="0.85">
+    <animate attributeName="opacity" values="0.55;0.95;0.55" dur="4.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1280" cy="248" r="20" fill="none" stroke="#FF3B10" stroke-width="0.8" opacity="0.4">
+    <animate attributeName="opacity" values="0.18;0.48;0.18" dur="4.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <g>
+    <circle cx="1168" cy="152" r="4.2" fill="url(#zh-nodeFill)"/>
+    <circle cx="1168" cy="152" r="9" fill="none" stroke="#FF3B10" stroke-width="0.6" opacity="0.28">
+      <animate attributeName="r" values="8;15;8" dur="3.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;0;0.3" dur="3.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g>
+    <circle cx="1288" cy="118" r="3.4" fill="url(#zh-nodeFill)" opacity="0.9"/>
+    <circle cx="1288" cy="118" r="3.4" fill="#FF3B10" opacity="0">
+      <animate attributeName="opacity" values="0;0.35;0" dur="5.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g>
+    <circle cx="1418" cy="158" r="4" fill="url(#zh-nodeFill)"/>
+    <circle cx="1418" cy="158" r="8.5" fill="none" stroke="#FF3B10" stroke-width="0.6" opacity="0.25">
+      <animate attributeName="r" values="7.5;14;7.5" dur="4.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.28;0;0.28" dur="4.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <circle cx="1468" cy="258" r="3.6" fill="url(#zh-nodeFill)" opacity="0.92"/>
+  <g>
+    <circle cx="1408" cy="358" r="4.1" fill="url(#zh-nodeFill)"/>
+    <circle cx="1408" cy="358" r="9" fill="none" stroke="#FF3B10" stroke-width="0.6" opacity="0.26">
+      <animate attributeName="r" values="8;15.5;8" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.26;0;0.26" dur="5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <circle cx="1272" cy="388" r="3.3" fill="url(#zh-nodeFill)" opacity="0.88"/>
+  <circle cx="1148" cy="348" r="3.8" fill="url(#zh-nodeFill)" opacity="0.94"/>
+  <g>
+    <circle cx="1128" cy="248" r="4" fill="url(#zh-nodeFill)"/>
+    <circle cx="1128" cy="248" r="8.5" fill="none" stroke="#FF3B10" stroke-width="0.6" opacity="0.24">
+      <animate attributeName="r" values="7.5;13.5;7.5" dur="3.9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.28;0;0.28" dur="3.9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <circle cx="1220" cy="198" r="2.4" fill="#FF3B10" opacity="0.7"/>
+  <circle cx="1355" cy="298" r="2.5" fill="#FF3B10" opacity="0.7"/>
+
+  <g font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="11" fill="#FF3B10" letter-spacing="0.6">
+    <text x="1086" y="178" opacity="0.38">{ }</text>
+    <text x="1448" y="128" opacity="0.34">&lt;/&gt;</text>
+    <text x="1210" y="96" opacity="0.36">AI</text>
+    <text x="1478" y="388" opacity="0.32">API</text>
+    <text x="1092" y="398" opacity="0.3">RAG</text>
+    <text x="1352" y="98" opacity="0.34">AGENT</text>
+    <text x="1088" y="122" opacity="0.3">MCP</text>
+    <text x="1496" y="328" opacity="0.32">01</text>
+  </g>
+
+  <g fill="#FFFFFF" opacity="0.08">
+    <rect x="1048" y="72" width="18" height="1"/>
+    <rect x="1048" y="72" width="1" height="12"/>
+    <rect x="1506" y="416" width="18" height="1"/>
+    <rect x="1523" y="405" width="1" height="12"/>
+  </g>
+</svg>
