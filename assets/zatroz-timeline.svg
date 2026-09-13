@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1600 240" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Developer timeline from 2022 to 2026">
+  <defs>
+    <linearGradient id="zt-bg" x1="0" y1="0" x2="1600" y2="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#080808"/>
+      <stop offset="100%" stop-color="#0B0B0B"/>
+    </linearGradient>
+    <linearGradient id="zt-rail" x1="120" y1="92" x2="1480" y2="92" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FF3B10" stop-opacity="0.15"/>
+      <stop offset="70%" stop-color="#FF3B10" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#FF3B10" stop-opacity="0.35"/>
+    </linearGradient>
+    <filter id="zt-glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="240" fill="url(#zt-bg)"/>
+  <rect x="16" y="16" width="1568" height="208" fill="none" stroke="#1A1A1A" stroke-width="1"/>
+  <text x="48" y="48" font-family="'JetBrains Mono', Consolas, monospace" font-size="12" letter-spacing="2.2" fill="#7A7A7A">TRAJECTORY</text>
+  <text x="1552" y="48" text-anchor="end" font-family="'JetBrains Mono', Consolas, monospace" font-size="12" letter-spacing="2.2" fill="#FF3B10">2022 - 2026</text>
+
+  <line x1="140" y1="108" x2="1460" y2="108" stroke="#222" stroke-width="2"/>
+  <line x1="140" y1="108" x2="1460" y2="108" stroke="url(#zt-rail)" stroke-width="2">
+    <animate attributeName="stroke-dasharray" values="0,1320;1320,0" dur="4.8s" fill="freeze"/>
+  </line>
+  <circle r="3.2" fill="#FF3B10" filter="url(#zt-glow)">
+    <animateMotion dur="7.5s" repeatCount="indefinite" path="M140,108 L1460,108"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="7.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <g font-family="Inter, 'Segoe UI', Arial, sans-serif" text-anchor="middle">
+    <g>
+      <circle cx="180" cy="108" r="7" fill="#0B0B0B" stroke="#FF3B10" stroke-width="2"/>
+      <circle cx="180" cy="108" r="3" fill="#FF3B10"/>
+      <text x="180" y="152" font-size="20" font-weight="700" fill="#F2F2F2">2022</text>
+      <text x="180" y="176" font-family="'JetBrains Mono', Consolas, monospace" font-size="14" fill="#8A8A8A">Java</text>
+    </g>
+    <g>
+      <circle cx="480" cy="108" r="7" fill="#0B0B0B" stroke="#FF3B10" stroke-width="2"/>
+      <circle cx="480" cy="108" r="3" fill="#FF3B10"/>
+      <text x="480" y="152" font-size="20" font-weight="700" fill="#F2F2F2">2023</text>
+      <text x="480" y="176" font-family="'JetBrains Mono', Consolas, monospace" font-size="14" fill="#8A8A8A">Web</text>
+    </g>
+    <g>
+      <circle cx="800" cy="108" r="7" fill="#0B0B0B" stroke="#FF3B10" stroke-width="2"/>
+      <circle cx="800" cy="108" r="3" fill="#FF3B10"/>
+      <text x="800" y="152" font-size="20" font-weight="700" fill="#F2F2F2">2024</text>
+      <text x="800" y="176" font-family="'JetBrains Mono', Consolas, monospace" font-size="14" fill="#8A8A8A">Full-stack</text>
+    </g>
+    <g>
+      <circle cx="1120" cy="108" r="7" fill="#0B0B0B" stroke="#FF3B10" stroke-width="2"/>
+      <circle cx="1120" cy="108" r="3" fill="#FF3B10"/>
+      <text x="1120" y="152" font-size="20" font-weight="700" fill="#F2F2F2">2025</text>
+      <text x="1120" y="176" font-family="'JetBrains Mono', Consolas, monospace" font-size="14" fill="#8A8A8A">Products</text>
+    </g>
+    <g>
+      <circle cx="1420" cy="108" r="9" fill="#FF3B10" filter="url(#zt-glow)">
+        <animate attributeName="r" values="8;10.5;8" dur="2.8s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1420" cy="108" r="3.2" fill="#FFFFFF"/>
+      <text x="1420" y="152" font-size="20" font-weight="700" fill="#FF3B10">2026</text>
+      <text x="1420" y="176" font-family="'JetBrains Mono', Consolas, monospace" font-size="14" fill="#C9C9C9">AI + Zatroz</text>
+    </g>
+  </g>
+</svg>

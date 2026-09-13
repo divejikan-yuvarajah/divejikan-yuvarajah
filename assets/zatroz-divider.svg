@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1600 36" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Section divider">
+  <defs>
+    <linearGradient id="zd-line" x1="0" y1="18" x2="1600" y2="18" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FF3B10" stop-opacity="0"/>
+      <stop offset="18%" stop-color="#FF3B10" stop-opacity="0.18"/>
+      <stop offset="50%" stop-color="#FF3B10" stop-opacity="0.7"/>
+      <stop offset="82%" stop-color="#FF3B10" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#FF3B10" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="zd-glow" x="-20%" y="-200%" width="140%" height="500%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1600" height="36" fill="#080808"/>
+  <line x1="80" y1="18" x2="1520" y2="18" stroke="#1C1C1C" stroke-width="1"/>
+  <line x1="80" y1="18" x2="1520" y2="18" stroke="url(#zd-line)" stroke-width="1.2"/>
+  <circle r="3" fill="#FF3B10" filter="url(#zd-glow)">
+    <animateMotion dur="8s" repeatCount="indefinite" path="M120,18 L1480,18"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2" fill="#FF8A6A">
+    <animateMotion dur="8s" begin="2.2s" repeatCount="indefinite" path="M1480,18 L120,18"/>
+    <animate attributeName="opacity" values="0;0.8;0.8;0" dur="8s" begin="2.2s" repeatCount="indefinite"/>
+  </circle>
+</svg>

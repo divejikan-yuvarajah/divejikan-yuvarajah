@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1600 180" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Yuvarajah Divejikan - building intelligent products">
+  <defs>
+    <linearGradient id="zf-bg" x1="0" y1="0" x2="1600" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#080808"/>
+      <stop offset="100%" stop-color="#0C0908"/>
+    </linearGradient>
+    <linearGradient id="zf-line" x1="480" y1="108" x2="1120" y2="108" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FF3B10" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FF3B10" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#FF3B10" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="zf-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.8" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="180" fill="url(#zf-bg)"/>
+  <rect x="16" y="16" width="1568" height="148" fill="none" stroke="#1A1A1A" stroke-width="1"/>
+  <g fill="none" stroke="#FF3B10" stroke-width="1.4" opacity="0.7">
+    <path d="M32 48 V32 H48"/>
+    <path d="M1568 48 V32 H1552"/>
+    <path d="M32 132 V148 H48"/>
+    <path d="M1568 132 V148 H1552"/>
+  </g>
+
+  <text x="800" y="74" text-anchor="middle" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="3" fill="#F2F2F2">YUVARAJAH DIVEJIKAN</text>
+  <line x1="560" y1="90" x2="1040" y2="90" stroke="url(#zf-line)" stroke-width="1.6"/>
+  <circle r="2.4" fill="#FF3B10" filter="url(#zf-glow)">
+    <animateMotion dur="6s" repeatCount="indefinite" path="M560,90 L1040,90"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="800" y="118" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="13" letter-spacing="2.4" fill="#FF3B10">AI SOFTWARE ENGINEER  &#183;  ZATROZ</text>
+  <text x="800" y="146" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="12" letter-spacing="1.8" fill="#7A7A7A">LEARN  &#183;  BUILD  &#183;  SHIP  &#183;  REPEAT</text>
+</svg>
