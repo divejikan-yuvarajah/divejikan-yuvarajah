@@ -25,18 +25,25 @@
   <text x="1552" y="48" text-anchor="end" font-family="'JetBrains Mono', Consolas, monospace" font-size="12" letter-spacing="2.2" fill="#FF3B10">2022 - 2026</text>
 
   <line x1="140" y1="108" x2="1460" y2="108" stroke="#222" stroke-width="2"/>
-  <line x1="140" y1="108" x2="1460" y2="108" stroke="url(#zt-rail)" stroke-width="2">
-    <animate attributeName="stroke-dasharray" values="0,1320;1320,0" dur="4.8s" fill="freeze"/>
+  <line x1="140" y1="108" x2="1460" y2="108" stroke="url(#zt-rail)" stroke-width="2"/>
+  <line x1="140" y1="108" x2="1460" y2="108" stroke="#FF3B10" stroke-width="2" stroke-dasharray="10 18" opacity="0.45">
+    <animate attributeName="stroke-dashoffset" values="0;-56" dur="3.2s" repeatCount="indefinite"/>
   </line>
-  <circle r="3.2" fill="#FF3B10" filter="url(#zt-glow)">
+  <circle r="3.4" fill="#FF3B10" filter="url(#zt-glow)">
     <animateMotion dur="7.5s" repeatCount="indefinite" path="M140,108 L1460,108"/>
     <animate attributeName="opacity" values="0;1;1;0" dur="7.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.4" fill="#FF8A6A">
+    <animateMotion dur="7.5s" begin="2.4s" repeatCount="indefinite" path="M1460,108 L140,108"/>
+    <animate attributeName="opacity" values="0;0.8;0.8;0" dur="7.5s" begin="2.4s" repeatCount="indefinite"/>
   </circle>
 
   <g font-family="Inter, 'Segoe UI', Arial, sans-serif" text-anchor="middle">
     <g>
       <circle cx="180" cy="108" r="7" fill="#0B0B0B" stroke="#FF3B10" stroke-width="2"/>
-      <circle cx="180" cy="108" r="3" fill="#FF3B10"/>
+      <circle cx="180" cy="108" r="3" fill="#FF3B10">
+        <animate attributeName="opacity" values="0.45;1;0.45" dur="3.4s" repeatCount="indefinite"/>
+      </circle>
       <text x="180" y="152" font-size="20" font-weight="700" fill="#F2F2F2">2022</text>
       <text x="180" y="176" font-family="'JetBrains Mono', Consolas, monospace" font-size="14" fill="#8A8A8A">Java</text>
     </g>
@@ -48,7 +55,9 @@
     </g>
     <g>
       <circle cx="800" cy="108" r="7" fill="#0B0B0B" stroke="#FF3B10" stroke-width="2"/>
-      <circle cx="800" cy="108" r="3" fill="#FF3B10"/>
+      <circle cx="800" cy="108" r="3" fill="#FF3B10">
+        <animate attributeName="opacity" values="0.45;1;0.45" dur="3.8s" begin="1.2s" repeatCount="indefinite"/>
+      </circle>
       <text x="800" y="152" font-size="20" font-weight="700" fill="#F2F2F2">2024</text>
       <text x="800" y="176" font-family="'JetBrains Mono', Consolas, monospace" font-size="14" fill="#8A8A8A">Full-stack</text>
     </g>

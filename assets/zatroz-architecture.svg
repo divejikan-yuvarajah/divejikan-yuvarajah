@@ -29,7 +29,9 @@
   <text x="1552" y="48" text-anchor="end" font-family="'JetBrains Mono', Consolas, monospace" font-size="12" letter-spacing="2.2" fill="#FF3B10">ZATROZ</text>
 
   <g>
-    <rect x="80" y="72" width="400" height="168" rx="6" fill="url(#za-card)" stroke="#222"/>
+    <rect x="80" y="72" width="400" height="168" rx="6" fill="url(#za-card)" stroke="#2A2A2A">
+      <animate attributeName="stroke-opacity" values="0.55;1;0.55" dur="5s" repeatCount="indefinite"/>
+    </rect>
     <rect x="80" y="72" width="4" height="168" fill="#FF3B10" opacity="0.85"/>
     <text x="108" y="108" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="14" letter-spacing="2.4" fill="#FF3B10">01</text>
     <text x="108" y="146" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="26" font-weight="700" fill="#F2F2F2">SOFTWARE</text>
@@ -38,7 +40,9 @@
   </g>
 
   <g>
-    <rect x="600" y="72" width="400" height="168" rx="6" fill="url(#za-card)" stroke="#222"/>
+    <rect x="600" y="72" width="400" height="168" rx="6" fill="url(#za-card)" stroke="#2A2A2A">
+      <animate attributeName="stroke-opacity" values="0.55;1;0.55" dur="5s" begin="1.6s" repeatCount="indefinite"/>
+    </rect>
     <rect x="600" y="72" width="4" height="168" fill="#FF3B10" opacity="0.85"/>
     <text x="628" y="108" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="14" letter-spacing="2.4" fill="#FF3B10">02</text>
     <text x="628" y="146" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="26" font-weight="700" fill="#F2F2F2">INTELLIGENCE</text>
@@ -47,7 +51,9 @@
   </g>
 
   <g>
-    <rect x="1120" y="72" width="400" height="168" rx="6" fill="url(#za-card)" stroke="#222"/>
+    <rect x="1120" y="72" width="400" height="168" rx="6" fill="url(#za-card)" stroke="#2A2A2A">
+      <animate attributeName="stroke-opacity" values="0.55;1;0.55" dur="5s" begin="3.2s" repeatCount="indefinite"/>
+    </rect>
     <rect x="1120" y="72" width="4" height="168" fill="#FF3B10" opacity="0.85"/>
     <text x="1148" y="108" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="14" letter-spacing="2.4" fill="#FF3B10">03</text>
     <text x="1148" y="146" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="26" font-weight="700" fill="#F2F2F2">DELIVERY</text>
@@ -55,27 +61,45 @@
     <text x="1148" y="202" font-family="'JetBrains Mono', Consolas, monospace" font-size="15" fill="#9A9A9A">n8n  &#183;  Cloud  &#183;  Shipping</text>
   </g>
 
-  <g stroke="#FF3B10" stroke-width="1.1" fill="none" opacity="0.45">
+  <g stroke="#FF3B10" stroke-width="1.1" fill="none" opacity="0.28">
     <path d="M480,156 H600"/>
     <path d="M1000,156 H1120"/>
     <path d="M280,240 V276 H1320 V240"/>
   </g>
+  <g fill="none" stroke="#FF3B10" stroke-width="1.3" stroke-dasharray="6 12" opacity="0.7">
+    <path d="M480,156 H600">
+      <animate attributeName="stroke-dashoffset" values="0;-36" dur="2.4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1000,156 H1120">
+      <animate attributeName="stroke-dashoffset" values="0;-36" dur="2.4s" begin="0.8s" repeatCount="indefinite"/>
+    </path>
+    <path d="M280,240 V276 H800">
+      <animate attributeName="stroke-dashoffset" values="0;-54" dur="3.6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1320,240 V276 H800">
+      <animate attributeName="stroke-dashoffset" values="0;-54" dur="3.6s" begin="1s" repeatCount="indefinite"/>
+    </path>
+  </g>
   <g fill="#FF3B10">
-    <circle r="2.2">
-      <animateMotion dur="3.8s" repeatCount="indefinite" path="M480,156 H600"/>
-      <animate attributeName="opacity" values="0;1;1;0" dur="3.8s" repeatCount="indefinite"/>
+    <circle r="2.4">
+      <animateMotion dur="3.2s" repeatCount="indefinite" path="M480,156 H600"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="3.2s" repeatCount="indefinite"/>
     </circle>
-    <circle r="2.2">
-      <animateMotion dur="3.8s" begin="1.2s" repeatCount="indefinite" path="M1000,156 H1120"/>
-      <animate attributeName="opacity" values="0;1;1;0" dur="3.8s" begin="1.2s" repeatCount="indefinite"/>
+    <circle r="2.4">
+      <animateMotion dur="3.2s" begin="1s" repeatCount="indefinite" path="M1000,156 H1120"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="3.2s" begin="1s" repeatCount="indefinite"/>
     </circle>
-    <circle r="2">
-      <animateMotion dur="6.4s" repeatCount="indefinite" path="M280,240 V276 H800"/>
-      <animate attributeName="opacity" values="0;0.9;0.9;0" dur="6.4s" repeatCount="indefinite"/>
+    <circle r="2.1">
+      <animateMotion dur="5.4s" repeatCount="indefinite" path="M280,240 V276 H800"/>
+      <animate attributeName="opacity" values="0;0.95;0.95;0" dur="5.4s" repeatCount="indefinite"/>
     </circle>
-    <circle r="2">
-      <animateMotion dur="6.4s" begin="2s" repeatCount="indefinite" path="M1320,240 V276 H800"/>
-      <animate attributeName="opacity" values="0;0.9;0.9;0" dur="6.4s" begin="2s" repeatCount="indefinite"/>
+    <circle r="2.1">
+      <animateMotion dur="5.4s" begin="1.6s" repeatCount="indefinite" path="M1320,240 V276 H800"/>
+      <animate attributeName="opacity" values="0;0.95;0.95;0" dur="5.4s" begin="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="1.8">
+      <animateMotion dur="4.6s" begin="2.2s" repeatCount="indefinite" path="M600,156 H480"/>
+      <animate attributeName="opacity" values="0;0.7;0.7;0" dur="4.6s" begin="2.2s" repeatCount="indefinite"/>
     </circle>
   </g>
 
@@ -83,5 +107,8 @@
   <circle cx="800" cy="276" r="5.5" fill="#FF3B10" filter="url(#za-glow)">
     <animate attributeName="r" values="4.8;6.4;4.8" dur="3.2s" repeatCount="indefinite"/>
   </circle>
-  <text x="800" y="322" text-anchor="middle" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="2.2" fill="#F2F2F2">INTELLIGENT PRODUCTS</text>
+  <text x="800" y="322" text-anchor="middle" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="2.2" fill="#F2F2F2">
+    INTELLIGENT PRODUCTS
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="4s" repeatCount="indefinite"/>
+  </text>
 </svg>

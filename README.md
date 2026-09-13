@@ -9,11 +9,16 @@
 </p>
 
 <p align="center">
-  <a href="#profile">Profile</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#systems">Systems</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#work">Work</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#recognition">Recognition</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#stack">Stack</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#profile">Profile</a>
+  &nbsp;·&nbsp;
+  <a href="#systems">Systems</a>
+  &nbsp;·&nbsp;
+  <a href="#work">Work</a>
+  &nbsp;·&nbsp;
+  <a href="#recognition">Recognition</a>
+  &nbsp;·&nbsp;
+  <a href="#stack">Stack</a>
+  &nbsp;·&nbsp;
   <a href="#connect">Connect</a>
 </p>
 
@@ -28,32 +33,28 @@
   <img src="assets/zatroz-divider.svg" width="100%" alt="" />
 </p>
 
-<a id="profile"></a>
-
 ## Profile
 
-<table width="100%">
+<table>
   <tr>
-    <td width="56%" valign="top">
+    <td width="58%" valign="top">
 
-I build software that can reason, retrieve, and act — not just render screens.
+I build software that can reason, retrieve, and act.
 
-**BICT (Hons)** undergraduate at South Eastern University of Sri Lanka. Co-founder of **Zatroz**. Focused on becoming an **AI Software Engineer** who can take a product from API and infrastructure through to an intelligent production layer.
-
-The work sits at one intersection:
+**BICT (Hons)** undergraduate at South Eastern University of Sri Lanka. Co-founder of **Zatroz**. Working toward becoming an **AI Software Engineer** who can take a product from API and infrastructure through to an intelligent production layer.
 
 `Software Engineering × AI × Automation → real products`
 
     </td>
-    <td width="44%" valign="top">
+    <td width="42%" valign="top">
 
 **Now**
 
-- Generative AI, RAG, and agent workflows
-- Java / Spring Boot backend systems
-- React and Next.js product interfaces
-- Cloud, Linux, and automation
-- Shipping through **Zatroz**
+- RAG, agents, and MCP
+- Java / Spring Boot
+- React / Next.js
+- Cloud and automation
+- Shipping via **Zatroz**
 
     </td>
   </tr>
@@ -63,52 +64,23 @@ The work sits at one intersection:
   <img src="assets/zatroz-divider.svg" width="100%" alt="" />
 </p>
 
-<a id="systems"></a>
-
 ## Systems
-
-How I think about building. Three layers, one output.
 
 <p align="center">
   <img src="assets/zatroz-architecture.svg" width="100%" alt="System map: software, intelligence, and delivery into intelligent products" />
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
+## Work
 
-**Software**  
-Reliable APIs, data models, and interfaces. Java, Spring Boot, React, Next.js.
-
-    </td>
-    <td width="34%" valign="top">
-
-**Intelligence**  
-Models that retrieve context and take actions. LLMs, RAG, agents, MCP.
-
-    </td>
-    <td width="33%" valign="top">
-
-**Delivery**  
-Cloud, automation, and the last mile of shipping. AWS, Linux, n8n.
-
-    </td>
-  </tr>
-</table>
-
-<a id="work"></a>
-
-## Selected Work
-
-<table width="100%">
+<table>
   <tr>
     <td width="50%" valign="top">
 
 **FlowPilot AI**  
-AI financial operating assistant for SMEs.  
+AI financial assistant for SMEs.  
 1st Place, FinTech — Cursor Buildathon Colombo 2026.
 
-`AI` `LLM` `FinTech` `Full-Stack`
+`AI` `LLM` `FinTech`
 
 [Repository](https://github.com/divejikan-yuvarajah/FlowPilotAI)
 
@@ -116,9 +88,9 @@ AI financial operating assistant for SMEs.
     <td width="50%" valign="top">
 
 **MediGuardian AI**  
-Healthcare assistance platform exploring safer access to medical information with generative AI.
+Healthcare assistant for safer access to medical information.
 
-`AI` `GenAI` `Healthcare` `Next.js`
+`AI` `GenAI` `Next.js`
 
 [Repository](https://github.com/divejikan-yuvarajah/MediGuardian-AI)
 
@@ -128,9 +100,9 @@ Healthcare assistance platform exploring safer access to medical information wit
     <td width="50%" valign="top">
 
 **HireQueue**  
-Recruitment platform designed around candidate and recruiter workflows.
+Recruitment platform for candidate and recruiter workflows.
 
-`Full-Stack` `Web` `Database`
+`Full-Stack` `Web`
 
 [Repository](https://github.com/divejikan-yuvarajah/hirequeue-job-platform)
 
@@ -138,19 +110,9 @@ Recruitment platform designed around candidate and recruiter workflows.
     <td width="50%" valign="top">
 
 **InvoiceX AI**  
-Invoice intelligence pipeline: OCR → structured data → validation → insight.
+Invoice pipeline: OCR → structured data → insight.
 
-`AI` `OCR` `n8n` `Supabase`
-
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-
-**INFRAOS**  
-National infrastructure intelligence concept for project coordination, transparency, and accountability.
-
-`MERN` `AI` `GovTech`
+`AI` `OCR` `n8n`
 
     </td>
   </tr>
@@ -166,27 +128,16 @@ National infrastructure intelligence concept for project coordination, transpare
 
 ## Zatroz
 
-Co-founder of **Zatroz** — a startup building practical software for businesses: web, mobile, POS, and AI automation.
-
-The longer bet is **AI-powered operations software for SMEs** — one system for workflows, data, and intelligence.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ZATROZ-FF3B10?style=for-the-badge" alt="Zatroz" />
-  <img src="https://img.shields.io/badge/AI-111111?style=for-the-badge" alt="AI" />
-  <img src="https://img.shields.io/badge/SOFTWARE-111111?style=for-the-badge" alt="Software" />
-  <img src="https://img.shields.io/badge/AUTOMATION-FF3B10?style=for-the-badge" alt="Automation" />
-</p>
-
-<a id="recognition"></a>
+Co-founder of **Zatroz**. We build practical software for businesses — web, mobile, POS, and AI automation — with a longer bet on **AI-powered operations software for SMEs**.
 
 ## Recognition
 
-<table width="100%">
+<table>
   <tr>
     <td width="50%" valign="top">
 
 **Cursor Buildathon Colombo 2026**  
-1st Place — FinTech Track  
+1st Place — FinTech  
 FlowPilot AI · Team ZeroDB
 
     </td>
@@ -214,35 +165,47 @@ Quarter Finalist · Zatroz
   </tr>
 </table>
 
-<a id="stack"></a>
-
 ## Stack
 
-<table width="100%">
+<table>
   <tr>
-    <td width="50%" valign="top" align="center">
-
-**Languages**  
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c&theme=dark" alt="Java Python JavaScript TypeScript C" />
-
-**Backend**  
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" alt="Spring Node Express" />
-
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,figma&theme=dark" alt="React Next.js HTML CSS Tailwind Figma" />
-
+    <td width="33%" valign="top" align="center">
+      <p align="center">
+        <strong>Languages</strong><br>
+        <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c&theme=dark&perline=5" alt="Languages" />
+      </p>
     </td>
-    <td width="50%" valign="top" align="center">
-
-**Data**  
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase&theme=dark" alt="Postgres MySQL Supabase Firebase" />
-
-**AI / ML**  
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" alt="Python TensorFlow PyTorch OpenCV" />
-
-**Cloud & Tools**  
-<img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github,vscode,idea,postman&theme=dark" alt="AWS Linux Docker Git GitHub VS Code IntelliJ Postman" />
-
+    <td width="33%" valign="top" align="center">
+      <p align="center">
+        <strong>Backend</strong><br>
+        <img src="https://skillicons.dev/icons?i=spring,nodejs,express,postman,vscode&theme=dark&perline=5" alt="Backend" />
+      </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <p align="center">
+        <strong>Frontend</strong><br>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark&perline=5" alt="Frontend" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <p align="center">
+        <strong>Data</strong><br>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase&theme=dark&perline=4" alt="Data" />
+      </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <p align="center">
+        <strong>AI / ML</strong><br>
+        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=4" alt="AI and ML" />
+      </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <p align="center">
+        <strong>Cloud</strong><br>
+        <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github&theme=dark&perline=5" alt="Cloud" />
+      </p>
     </td>
   </tr>
 </table>
@@ -253,13 +216,17 @@ Quarter Finalist · Zatroz
 
 ## Activity
 
-<table width="100%">
+<table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=divejikan-yuvarajah&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=080808&title_color=FF3B10&icon_color=FF3B10&text_color=EDEDED&ring_color=FF3B10" height="168" alt="GitHub stats" />
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=divejikan-yuvarajah&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=080808&title_color=FF3B10&icon_color=FF3B10&text_color=EDEDED" width="100%" alt="GitHub stats" />
+      </p>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="https://streak-stats.demolab.com?user=divejikan-yuvarajah&hide_border=true&background=080808&ring=FF3B10&fire=FF3B10&currStreakLabel=FF3B10&sideLabels=EDEDED&dates=888888&stroke=FF3B10" height="168" alt="GitHub streak" />
+      <p align="center">
+        <img src="https://streak-stats.demolab.com?user=divejikan-yuvarajah&hide_border=true&background=080808&ring=FF3B10&fire=FF3B10&currStreakLabel=FF3B10&sideLabels=EDEDED&dates=888888&stroke=FF3B10" width="100%" alt="GitHub streak" />
+      </p>
     </td>
   </tr>
 </table>
@@ -274,11 +241,9 @@ Quarter Finalist · Zatroz
   <img src="assets/zatroz-timeline.svg" width="100%" alt="Journey from Java in 2022 to AI engineering and Zatroz in 2026" />
 </p>
 
-<a id="connect"></a>
-
 ## Connect
 
-Open to software engineering roles, AI product work, hackathons, and serious collaboration.
+Open to software engineering roles, AI product work, and focused collaboration.
 
 <p align="center">
   <a href="mailto:divejuthe@gmail.com"><img src="https://img.shields.io/badge/Email-FF3B10?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>

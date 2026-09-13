@@ -34,6 +34,13 @@
     <animateMotion dur="6s" repeatCount="indefinite" path="M560,90 L1040,90"/>
     <animate attributeName="opacity" values="0;1;1;0" dur="6s" repeatCount="indefinite"/>
   </circle>
-  <text x="800" y="118" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="13" letter-spacing="2.4" fill="#FF3B10">AI SOFTWARE ENGINEER  &#183;  ZATROZ</text>
+  <circle r="2" fill="#FF8A6A">
+    <animateMotion dur="6s" begin="3s" repeatCount="indefinite" path="M1040,90 L560,90"/>
+    <animate attributeName="opacity" values="0;0.8;0.8;0" dur="6s" begin="3s" repeatCount="indefinite"/>
+  </circle>
+  <text x="800" y="118" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="13" letter-spacing="2.4" fill="#FF3B10">
+    AI SOFTWARE ENGINEER  &#183;  ZATROZ
+    <animate attributeName="opacity" values="0.75;1;0.75" dur="4.8s" repeatCount="indefinite"/>
+  </text>
   <text x="800" y="146" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="12" letter-spacing="1.8" fill="#7A7A7A">LEARN  &#183;  BUILD  &#183;  SHIP  &#183;  REPEAT</text>
 </svg>
