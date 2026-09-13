@@ -41,6 +41,7 @@
     </pattern>
     <pattern id="zh-dots" width="96" height="96" patternUnits="userSpaceOnUse">
       <circle cx="2" cy="2" r="0.8" fill="#FF3B10" opacity="0.16"/>
+      <animateTransform attributeName="patternTransform" type="translate" values="0,0;-96,48" dur="36s" repeatCount="indefinite"/>
     </pattern>
     <filter id="zh-glow" x="-80%" y="-80%" width="260%" height="260%">
       <feGaussianBlur stdDeviation="3.2" result="b"/>
@@ -71,8 +72,13 @@
   <rect width="1600" height="500" fill="url(#zh-grid)"/>
   <rect width="1600" height="500" fill="url(#zh-dots)"/>
   <rect width="1600" height="500" fill="url(#zh-vignette)"/>
-  <ellipse cx="800" cy="240" rx="480" ry="210" fill="url(#zh-titleGlow)"/>
-  <ellipse cx="1280" cy="248" rx="270" ry="210" fill="url(#zh-coreGlow)"/>
+  <ellipse cx="800" cy="240" rx="480" ry="210" fill="url(#zh-titleGlow)">
+    <animate attributeName="opacity" values="0.72;1;0.72" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="rx" values="460;500;460" dur="8s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="1280" cy="248" rx="270" ry="210" fill="url(#zh-coreGlow)">
+    <animate attributeName="opacity" values="0.65;1;0.65" dur="5.2s" repeatCount="indefinite"/>
+  </ellipse>
 
   <g fill="none" stroke="#FF3B10" stroke-width="0.7" opacity="0.12">
     <path d="M48 118 H168 L188 138 H310"/>
@@ -100,13 +106,31 @@
     <animate attributeName="x" values="28;1568;28" dur="22s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;0.22;0.22;0" dur="22s" repeatCount="indefinite"/>
   </rect>
+  <rect x="28" y="408" width="160" height="1.2" fill="#FF3B10" opacity="0.08">
+    <animate attributeName="x" values="28;1412;28" dur="16s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.2;0.2;0" dur="16s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="28" y="92" width="90" height="1" fill="#FFFFFF" opacity="0.06">
+    <animate attributeName="x" values="1410;40;1410" dur="19s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.14;0.14;0" dur="19s" repeatCount="indefinite"/>
+  </rect>
 
   <g fill="#FF3B10">
-    <circle cx="168" cy="118" r="1.6" opacity="0.45"/>
-    <circle cx="310" cy="138" r="1.4" opacity="0.35"/>
-    <circle cx="210" cy="392" r="1.5" opacity="0.4"/>
-    <circle cx="1432" cy="118" r="1.4" opacity="0.35"/>
-    <circle cx="1390" cy="392" r="1.5" opacity="0.4"/>
+    <circle cx="168" cy="118" r="1.6" opacity="0.45">
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="3.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="310" cy="138" r="1.4" opacity="0.35">
+      <animate attributeName="opacity" values="0.15;0.6;0.15" dur="4.1s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="210" cy="392" r="1.5" opacity="0.4">
+      <animate attributeName="opacity" values="0.18;0.65;0.18" dur="3.8s" begin="1.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1432" cy="118" r="1.4" opacity="0.35">
+      <animate attributeName="opacity" values="0.15;0.6;0.15" dur="4.6s" begin="0.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1390" cy="392" r="1.5" opacity="0.4">
+      <animate attributeName="opacity" values="0.18;0.7;0.18" dur="3.2s" begin="1.8s" repeatCount="indefinite"/>
+    </circle>
   </g>
 
   <g fill="#FFFFFF">
@@ -140,15 +164,35 @@
       <animate attributeName="cy" values="380;110;380" dur="18s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0;0.28;0.28;0" dur="18s" repeatCount="indefinite"/>
     </circle>
+    <circle cx="640" cy="420" r="1.3" fill="#FF3B10">
+      <animate attributeName="cy" values="420;70;420" dur="15s" begin="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.5;0.5;0" dur="15s" begin="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="980" cy="80" r="1.2" fill="#FF8A6A">
+      <animate attributeName="cy" values="70;410;70" dur="17s" begin="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.45;0.45;0" dur="17s" begin="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="360" cy="200" r="1.1" fill="#FFFFFF">
+      <animate attributeName="cx" values="120;520;120" dur="20s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.25;0.25;0" dur="20s" repeatCount="indefinite"/>
+    </circle>
   </g>
 
   <rect x="18" y="18" width="1564" height="464" fill="none" stroke="#1A1A1A" stroke-width="1"/>
   <rect x="22" y="22" width="1556" height="456" fill="none" stroke="#FF3B10" stroke-width="0.6" opacity="0.14"/>
   <g fill="none" stroke="#FF3B10" stroke-width="1.6" stroke-linecap="square" opacity="0.7">
-    <path d="M34 62 V34 H62"/>
-    <path d="M1566 62 V34 H1538"/>
-    <path d="M34 438 V466 H62"/>
-    <path d="M1566 438 V466 H1538"/>
+    <path d="M34 62 V34 H62">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1566 62 V34 H1538">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="4s" begin="1s" repeatCount="indefinite"/>
+    </path>
+    <path d="M34 438 V466 H62">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="4s" begin="2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1566 438 V466 H1538">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="4s" begin="3s" repeatCount="indefinite"/>
+    </path>
   </g>
 
   <g font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" fill="#C9C9C9">
@@ -159,7 +203,10 @@
       <animate attributeName="r" values="6;11;6" dur="2.6s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0.35;0;0.35" dur="2.6s" repeatCount="indefinite"/>
     </circle>
-    <text x="102" y="66" font-size="12" letter-spacing="1.8" fill="#D0D0D0">SYSTEM ONLINE</text>
+    <text x="102" y="66" font-size="12" letter-spacing="1.8" fill="#D0D0D0">
+      SYSTEM ONLINE
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="2.6s" repeatCount="indefinite"/>
+    </text>
     <rect x="268" y="55" width="2" height="8" fill="#FF3B10" opacity="0.35"/>
     <rect x="273" y="52" width="2" height="11" fill="#FF3B10" opacity="0.55"/>
     <rect x="278" y="49" width="2" height="14" fill="#FF3B10" opacity="0.8"/>
@@ -173,7 +220,10 @@
       <animate attributeName="opacity" values="0.55;1;0.55" dur="3.2s" repeatCount="indefinite"/>
     </rect>
     <rect x="1439" y="53" width="2.2" height="2.2" fill="#0B0B0B"/>
-    <text x="1452" y="58" font-size="13" font-weight="600" letter-spacing="2.4" fill="#FF3B10">ZATROZ</text>
+    <text x="1452" y="58" font-size="13" font-weight="600" letter-spacing="2.4" fill="#FF3B10">
+      ZATROZ
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="3.2s" repeatCount="indefinite"/>
+    </text>
   </g>
 
   <g font-family="'Segoe UI Variable Display', 'SF Pro Display', 'Space Grotesk', Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" text-anchor="middle">
@@ -189,12 +239,21 @@
       AI SOFTWARE ENGINEER
       <animate attributeName="opacity" values="0.82;1;0.82" dur="5.5s" repeatCount="indefinite"/>
     </text>
-    <text x="800" y="378" font-size="15" font-weight="500" letter-spacing="1.8" fill="#A3A3A3">SOFTWARE ENGINEERING  &#183;  AI  &#183;  AUTOMATION  &#183;  ENTREPRENEURSHIP</text>
+    <text x="800" y="378" font-size="15" font-weight="500" letter-spacing="1.8" fill="#A3A3A3">
+      SOFTWARE ENGINEERING  &#183;  AI  &#183;  AUTOMATION  &#183;  ENTREPRENEURSHIP
+      <animate attributeName="opacity" values="0.55;0.95;0.55" dur="7s" repeatCount="indefinite"/>
+    </text>
   </g>
 
   <g font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" fill="#7A7A7A" font-size="11" letter-spacing="1.4">
-    <text x="88" y="450">BUILDING INTELLIGENT SYSTEMS</text>
-    <text x="1512" y="450" text-anchor="end">AI ENGINEERING  /  2026</text>
+    <text x="88" y="450">
+      BUILDING INTELLIGENT SYSTEMS
+      <animate attributeName="opacity" values="0.45;0.9;0.45" dur="5s" repeatCount="indefinite"/>
+    </text>
+    <text x="1512" y="450" text-anchor="end">
+      AI ENGINEERING  /  2026
+      <animate attributeName="opacity" values="0.45;0.9;0.45" dur="5s" begin="1.4s" repeatCount="indefinite"/>
+    </text>
   </g>
 
   <line x1="1040" y1="248" x2="1128" y2="248" stroke="url(#zh-bridge)" stroke-width="1"/>
@@ -210,7 +269,7 @@
     <animate attributeName="opacity" values="0;0.65;0.65;0" dur="4.2s" begin="2.1s" repeatCount="indefinite"/>
   </circle>
 
-  <g stroke="#FF3B10" stroke-width="0.9" fill="none" opacity="0.38">
+  <g stroke="#FF3B10" stroke-width="0.9" fill="none" opacity="0.28">
     <path d="M1280,248 L1168,152"/>
     <path d="M1280,248 L1288,118"/>
     <path d="M1280,248 L1418,158"/>
@@ -226,6 +285,23 @@
     <path d="M1148,348 L1272,388"/>
     <path d="M1220,198 L1280,248"/>
     <path d="M1355,298 L1280,248"/>
+  </g>
+  <g fill="none" stroke="#FF3B10" stroke-width="1" stroke-dasharray="5 11" opacity="0.45">
+    <path d="M1280,248 L1168,152">
+      <animate attributeName="stroke-dashoffset" values="0;-32" dur="3.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1280,248 L1418,158">
+      <animate attributeName="stroke-dashoffset" values="0;-32" dur="3.6s" begin="0.5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1280,248 L1128,248">
+      <animate attributeName="stroke-dashoffset" values="0;-32" dur="2.8s" begin="1s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1280,248 L1408,358">
+      <animate attributeName="stroke-dashoffset" values="0;-32" dur="3.8s" begin="1.4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1280,248 L1272,388">
+      <animate attributeName="stroke-dashoffset" values="0;-32" dur="4s" begin="0.8s" repeatCount="indefinite"/>
+    </path>
   </g>
 
   <g fill="#FF3B10">
@@ -272,6 +348,22 @@
     <circle r="1.6" opacity="0.7">
       <animateMotion dur="7.4s" repeatCount="indefinite" path="M1168,152 L1128,248"/>
       <animate attributeName="opacity" values="0;0.75;0.75;0" dur="7.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="1.5" opacity="0.65">
+      <animateMotion dur="6.2s" begin="1.8s" repeatCount="indefinite" path="M1280,248 L1148,348"/>
+      <animate attributeName="opacity" values="0;0.7;0.7;0" dur="6.2s" begin="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="1.4" opacity="0.6">
+      <animateMotion dur="5s" begin="2.4s" repeatCount="indefinite" path="M1220,198 L1280,248"/>
+      <animate attributeName="opacity" values="0;0.75;0.75;0" dur="5s" begin="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="1.4" opacity="0.6">
+      <animateMotion dur="5.2s" begin="3s" repeatCount="indefinite" path="M1355,298 L1280,248"/>
+      <animate attributeName="opacity" values="0;0.75;0.75;0" dur="5.2s" begin="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="1.5" opacity="0.65">
+      <animateMotion dur="6s" begin="0.7s" repeatCount="indefinite" path="M1148,348 L1272,388"/>
+      <animate attributeName="opacity" values="0;0.7;0.7;0" dur="6s" begin="0.7s" repeatCount="indefinite"/>
     </circle>
   </g>
 
@@ -323,7 +415,9 @@
       <animate attributeName="opacity" values="0.28;0;0.28" dur="4.4s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <circle cx="1468" cy="258" r="3.6" fill="url(#zh-nodeFill)" opacity="0.92"/>
+  <circle cx="1468" cy="258" r="3.6" fill="url(#zh-nodeFill)" opacity="0.92">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3.6s" repeatCount="indefinite"/>
+  </circle>
   <g>
     <circle cx="1408" cy="358" r="4.1" fill="url(#zh-nodeFill)"/>
     <circle cx="1408" cy="358" r="9" fill="none" stroke="#FF3B10" stroke-width="0.6" opacity="0.26">
@@ -331,8 +425,12 @@
       <animate attributeName="opacity" values="0.26;0;0.26" dur="5s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <circle cx="1272" cy="388" r="3.3" fill="url(#zh-nodeFill)" opacity="0.88"/>
-  <circle cx="1148" cy="348" r="3.8" fill="url(#zh-nodeFill)" opacity="0.94"/>
+  <circle cx="1272" cy="388" r="3.3" fill="url(#zh-nodeFill)" opacity="0.88">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="4.1s" begin="0.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1148" cy="348" r="3.8" fill="url(#zh-nodeFill)" opacity="0.94">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3.7s" begin="1.5s" repeatCount="indefinite"/>
+  </circle>
   <g>
     <circle cx="1128" cy="248" r="4" fill="url(#zh-nodeFill)"/>
     <circle cx="1128" cy="248" r="8.5" fill="none" stroke="#FF3B10" stroke-width="0.6" opacity="0.24">
@@ -340,8 +438,14 @@
       <animate attributeName="opacity" values="0.28;0;0.28" dur="3.9s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <circle cx="1220" cy="198" r="2.4" fill="#FF3B10" opacity="0.7"/>
-  <circle cx="1355" cy="298" r="2.5" fill="#FF3B10" opacity="0.7"/>
+  <circle cx="1220" cy="198" r="2.4" fill="#FF3B10" opacity="0.7">
+    <animate attributeName="r" values="2;3.2;2" dur="3.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.35;0.9;0.35" dur="3.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1355" cy="298" r="2.5" fill="#FF3B10" opacity="0.7">
+    <animate attributeName="r" values="2.1;3.4;2.1" dur="3.8s" begin="1.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.35;0.9;0.35" dur="3.8s" begin="1.2s" repeatCount="indefinite"/>
+  </circle>
 
   <g font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="11" fill="#FF3B10" letter-spacing="0.6">
     <text x="1086" y="178" opacity="0.38">{ }
@@ -353,12 +457,18 @@
     <text x="1210" y="96" opacity="0.36">AI
       <animate attributeName="opacity" values="0.2;0.42;0.2" dur="4.8s" repeatCount="indefinite"/>
     </text>
-    <text x="1478" y="388" opacity="0.32">API</text>
-    <text x="1092" y="398" opacity="0.3">RAG</text>
+    <text x="1478" y="388" opacity="0.32">API
+      <animate attributeName="opacity" values="0.16;0.4;0.16" dur="5.4s" repeatCount="indefinite"/>
+    </text>
+    <text x="1092" y="398" opacity="0.3">RAG
+      <animate attributeName="y" values="398;392;398" dur="9s" repeatCount="indefinite"/>
+    </text>
     <text x="1352" y="98" opacity="0.34">AGENT
       <animate attributeName="y" values="98;92;98" dur="10s" repeatCount="indefinite"/>
     </text>
-    <text x="1088" y="122" opacity="0.3">MCP</text>
+    <text x="1088" y="122" opacity="0.3">MCP
+      <animate attributeName="opacity" values="0.16;0.38;0.16" dur="4.6s" begin="1s" repeatCount="indefinite"/>
+    </text>
     <text x="1496" y="328" opacity="0.32">01
       <animate attributeName="opacity" values="0.18;0.4;0.18" dur="3.6s" repeatCount="indefinite"/>
     </text>
