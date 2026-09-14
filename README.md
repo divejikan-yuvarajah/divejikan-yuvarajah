@@ -177,7 +177,7 @@ Automation that compounds
 <td width="50%" valign="top">
 
 **Cursor Buildathon Colombo 2026**  
-1st Place — FinTech  
+1st Place — FinTech | Top 10 & Finalist 
 FlowPilot AI · Team ZeroDB
 
 </td>
