@@ -44,7 +44,7 @@
 
 I build software that can reason, retrieve, and act.
 
-**BICT (Hons)** undergraduate at South Eastern University of Sri Lanka and co-founder of **Zatroz**. I work at the intersection of software engineering, AI, and automation — from APIs and data models to RAG, agents, and the last mile of shipping.
+**BICT (Hons)** undergraduate at South Eastern University of Sri Lanka and Founder & CEO of **Zatroz**. I work at the intersection of software engineering, AI, and automation — from APIs and data models to RAG, agents, and the last mile of shipping.
 
 The aim is simple: become an **AI Software Engineer** who can take an idea to a production system.
 
