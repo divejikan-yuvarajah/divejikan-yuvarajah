@@ -135,7 +135,7 @@ Invoice pipeline: OCR → structured data → insight.
 
 ## Zatroz
 
-Co-founder of **Zatroz**. We build practical software for businesses — web, mobile, POS, and AI automation.
+Founder & CEO of **Zatroz**. We build practical software for businesses - web, mobile, POS, and AI automation.
 
 The longer bet is **AI-powered operations software for SMEs**: one system for workflows, data, and intelligence.
 
